@@ -2,22 +2,18 @@
 layout: defaults/page
 permalink: index.html
 narrow: true
-title: chitose.org
+title: Home
 ---
 
-## What is it?
+## Welcome to chitose.org
 
 {% include components/intro.md %}
 
-[Here's the full feature list and some quick examples of what it can do.]({{ site.baseurl}}{% link _pages/about.md %})
+詳しくは[About]({{ site.baseurl}}{% link _pages/about.md %})へ
 
-## How to use it
+<br>
 
-This web site is the documentation for the theme and also provides examples of how you can use and modify it. TIt is built using Friday Theme directly from the [GitHub repo](https://github.com/sfreytag/friday-theme) and published to GitHub pages.
 
-[The documentation]({{ site.baseurl }}{% link list/projects.md %}) covers the basics of installing and using it, and is an example of how you could write documentation about your own projects.
-
-[The blog]({{ site.baseurl }}{% link list/posts.html %}) has a bunch of tips about how to use Friday Theme. These show how the blog works, including the tags. There's the three most-recent posts below included below.
 
 <hr />
 
@@ -27,4 +23,5 @@ This web site is the documentation for the theme and also provides examples of h
 {% include components/post-card.html %}
 {% endfor %}
 
+© 2020 hakobe some rights reserved ([CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/deed.ja)). Powered by [Jekyll](http://jekyllrb-ja.github.io) & [Friday Theme](https://sfreytag.github.io/friday-theme/).
 

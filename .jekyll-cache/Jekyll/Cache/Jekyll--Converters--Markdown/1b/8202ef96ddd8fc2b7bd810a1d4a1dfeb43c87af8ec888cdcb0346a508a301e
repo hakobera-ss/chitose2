@@ -1,0 +1,67 @@
+I"�<p>R初心者なので、こんな初歩的なことを投稿するのも恥ずかしいことだけど、いつか同じ初心者の誰かの役に立つことを信じて、まとめておこうと思う。</p>
+
+<!--more-->
+
+<h4 id="準備">準備</h4>
+
+<div class="language-R highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1"># ベクタaからcに、種名を入れていく</span><span class="w">
+</span><span class="n">a</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="nf">c</span><span class="p">(</span><span class="s2">"セイヨウタンポポ"</span><span class="p">,</span><span class="w"> </span><span class="s2">"カタバミ"</span><span class="p">,</span><span class="w"> </span><span class="s2">"コハコベ"</span><span class="p">,</span><span class="w"> </span><span class="s2">"ノミノツヅリ"</span><span class="p">)</span><span class="w">
+</span><span class="n">b</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="nf">c</span><span class="p">(</span><span class="s2">"フデリンドウ"</span><span class="p">,</span><span class="w"> </span><span class="s2">"コハコベ"</span><span class="p">,</span><span class="w"> </span><span class="s2">"セイヨウタンポポ"</span><span class="p">)</span><span class="w">
+</span><span class="n">c</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="nf">c</span><span class="p">(</span><span class="s2">"カタバミ"</span><span class="p">,</span><span class="w"> </span><span class="s2">"ミチタネツケバナ"</span><span class="p">,</span><span class="w"> </span><span class="s2">"コハコベ"</span><span class="p">)</span><span class="w">
+</span></code></pre></div></div>
+
+<p>例えば、こんなフロラリストをまとめたベクタがあったとします<sup id="fnref:1" role="doc-noteref"><a href="#fn:1" class="footnote">1</a></sup>。</p>
+
+<p>これは、既存のデータを加工するなりして作成できると思います。</p>
+
+<h4 id="全ベクトルに共通する要素を抽出する">全ベクトルに共通する要素を抽出する</h4>
+
+<ul>
+  <li>intersectで、2つのベクトルで重複していない要素を抽出する。それを複数回繰り返す。</li>
+</ul>
+
+<div class="language-R highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">intersect</span><span class="p">(</span><span class="n">intersect</span><span class="p">(</span><span class="n">a</span><span class="p">,</span><span class="w"> </span><span class="n">b</span><span class="p">),</span><span class="w"> </span><span class="n">c</span><span class="p">)</span><span class="w">
+</span></code></pre></div></div>
+
+<p>ちなみにこの結果は、</p>
+
+<div class="language-R highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="p">[</span><span class="m">1</span><span class="p">]</span><span class="w"> </span><span class="s2">"コハコベ"</span><span class="w">
+</span></code></pre></div></div>
+
+<p>うん、正しく出力されましたね。</p>
+
+<h4 id="abに含まれていてcにはない要素を抽出する">a,bに含まれていて、cにはない要素を抽出する</h4>
+
+<ul>
+  <li>
+    <p>これは一瞬勘違いをしたのですが、正確には</p>
+
+    <p><code class="language-plaintext highlighter-rouge">「a or bに含まれている」and「cには含まれていない」</code></p>
+
+    <p>ということを、多くの場合求めたいということだと思う。</p>
+  </li>
+  <li>
+    <p>こうした場合、unionを使ってaとbの和集合を作り、そこから他のベクトルでintersectで重複要素を外していくのがよい。</p>
+
+    <div class="language-R highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">setdiff</span><span class="p">(</span><span class="n">union</span><span class="p">(</span><span class="n">a</span><span class="p">,</span><span class="w"> </span><span class="n">b</span><span class="p">),</span><span class="w"> </span><span class="n">c</span><span class="p">)</span><span class="w">
+</span></code></pre></div>    </div>
+  </li>
+</ul>
+
+<p>この結果は</p>
+
+<div class="language-R highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="p">[</span><span class="m">1</span><span class="p">]</span><span class="w"> </span><span class="s2">"セイヨウタンポポ"</span><span class="w"> </span><span class="s2">"ノミノツヅリ"</span><span class="w">     </span><span class="s2">"フデリンドウ"</span><span class="w">  
+</span></code></pre></div></div>
+
+<p>a, b だけでしかみられないノミノツヅリ、フデリンドウもちゃんと出力されていますね。</p>
+
+<p>実際は、もっと沢山のデータセットを扱うものでしょうが、解析のとっかかりにはいい手法だなと、私自身は考えています。</p>
+
+<div class="footnotes" role="doc-endnotes">
+  <ol>
+    <li id="fn:1" role="doc-endnote">
+      <p>あくまで、例示のためのダミーデータです。 <a href="#fnref:1" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
+:ET
