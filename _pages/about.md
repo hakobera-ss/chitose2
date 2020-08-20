@@ -6,7 +6,7 @@ title: About
 
 ---
 
-## About me
+#### About me
 
 - 名前：はこべ （hakobe）
 - 名前の由来：ミヤマハコベ（*Stellaria sessiliflora*）から
@@ -15,7 +15,7 @@ title: About
 
 <br>
 
-## このサイトについて
+#### このサイトについて
 
 {% include components/intro.md %}
 
@@ -27,7 +27,7 @@ title: About
 
 <br>
 
-## ライセンス
+#### ライセンス
 
 私が著作権を有するコンテンツは、[クリエイティブ・コモンズ・ライセンス 表示 4.0 国際 (CC-BY-4.0)](https://creativecommons.org/licenses/by/4.0/deed.en)の下で公開します。ただし、以下に示す著作物は、それぞれの著作権者・ライセンスに帰属します。
 
