@@ -1,5 +1,5 @@
 ---
-title: つくったもの
+title: Works
 narrow: true
 permalink: list/projects.html
 show_profile: true
