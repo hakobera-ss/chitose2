@@ -23,4 +23,6 @@ title: Links
 ## Scrapbox
 
 - [bibliobibuli](https://scrapbox.io/bibliobibuli/)（Admin: にらり、Editor: [felesitas.cloud](https://felesitas.cloud/)の住民たち）
+- [keynote](https://scrapbox.io/keynote)（きーの）
+- [mikura-knowledge](https://scrapbox.io/mikura-knowledge/)（かるま）
 
