@@ -12,6 +12,8 @@ title: Links
 - [fedyya](https://www.fedyya.net/)（あかれぎ）
 - [Escapism](https://www.escapism.work/)（にらり）
 - [みことはねっと](https://mikotoha.net/)（兎月くみ）
+- [homepage](https://bananagikoh.github.io/homepage/pages/mastodon-use/profile.html)（雨宮凪沙/nagiko）
+- [女學生@JK17（仮設）](https://17jk.github.io)（女學生）
 
 ## Blog
 
