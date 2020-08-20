@@ -148,7 +148,7 @@ title: 理系女子大学院生　闇落ち！さくらちゃん（学部・修�
 
 ---
 
-[着せ替えキャラメイク](https://www.pixiv.net/artworks/72376084)（swfファイル及びhtmlファイル）は[ゆゆづき](https://www.pixiv.net/users/34513911)氏の著作物です。
+[着せ替えキャラメイク](https://www.pixiv.net/artworks/72376084)の本体（swfファイル及びhtmlファイル）は[ゆゆづき](https://www.pixiv.net/users/34513911)氏の著作物です。キャプチャした画像は、非商用・非営利に限って創作物への使用が許可されています。
 
-<div align="center"><a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="クリエイティブ・コモンズ・ライセンス" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a></div><br />「理系女子大学院生　闇落ち！さくらちゃん」は <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">クリエイティブ・コモンズ 表示 - 非営利 4.0 国際 ライセンス</a>の下に提供されています。
+<div align="center"><a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="クリエイティブ・コモンズ・ライセンス" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a></div><br />「理系女子大学院生　闇落ち！さくらちゃん」は <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">クリエイティブ・コモンズ 表示 - 非営利 4.0 国際 ライセンス</a>の下に提供します。
 
