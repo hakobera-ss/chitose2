@@ -24,7 +24,7 @@ title: About
 - [着せ替えキャラメイク](https://www.pixiv.net/artworks/72376084) by [ゆゆづき](https://www.pixiv.net/users/34513911) 氏 all rights reserved
   - 権利関係が提供元で明示されていないため、権利関係の確認が済むまでは画像は掲載しないこととします。
 - [Mastodonのアイコン](https://commons.wikimedia.org/wiki/File:Font_Awesome_5_brands_mastodon.svg) by [Font Awesome](https://fontawesome.com) under CC-BY-4.0
-- 静的サイトジェネレータのソースコード（[Jekyll](http://jekyllrb-ja.github.io) & [Friday Theme](https://sfreytag.github.io/friday-theme/)）は、下記のGitHubリポジトリにてライセンスを明示しています。
+- [Friday Theme](https://sfreytag.github.io/friday-theme/)のソースコードは、下記のGitHubリポジトリにてライセンスを明示しています。
 
 なお、当サイトのソースコードは[GitHub](https://github.com/hakobera-ss/hakobera-ss.github.io)で公開しています。
 

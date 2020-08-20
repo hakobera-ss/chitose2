@@ -23,5 +23,5 @@ title: Home
 {% include components/post-card.html %}
 {% endfor %}
 
-© 2020 hakobe some rights reserved ([CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/deed.ja)). Powered by [Jekyll](http://jekyllrb-ja.github.io) & [Friday Theme](https://sfreytag.github.io/friday-theme/).
+© 2020 hakobe some rights reserved ([CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/deed.en)). Powered by [Jekyll](https://jekyllrb.com) & [Friday Theme](https://sfreytag.github.io/friday-theme/).
 
