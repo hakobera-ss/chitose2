@@ -27,6 +27,6 @@ tags:
 ##### 引用文献
 
 [^1]: 大橋ほか (2015) 改訂新版 日本の野生植物（第4巻）. 平凡社
-[^2]: [三河の自然観察｜ヘクソカズラ](http://mikawanoyasou.org/data/hekusokazura.htm)
+[^2]: [三河の植物観察｜ヘクソカズラ](http://mikawanoyasou.org/data/hekusokazura.htm)
 [^3]: [Wikipedia｜ヘクソカズラ]([https://ja.wikipedia.org/wiki/%E3%83%98%E3%82%AF%E3%82%BD%E3%82%AB%E3%82%BA%E3%83%A9)
 
