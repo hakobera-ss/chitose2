@@ -12,7 +12,7 @@ tags:
 
 <br>
 
-<div align="center"><a href="https://gyazo.com/30d276a8decd6c99316e1ee5340beed3"><img src="https://i.gyazo.com/30d276a8decd6c99316e1ee5340beed3.jpg" alt="Image from Gyazo" width="500"/></a></div>
+<div align="center"><a href="https://gyazo.com/b5871e4c1d0acf809053ac103bd0a67e"><img src="https://i.gyazo.com/b5871e4c1d0acf809053ac103bd0a67e.jpg" alt="ヘクソカズラ" width="500"/></a></div>
 
 <br>
 
