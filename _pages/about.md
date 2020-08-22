@@ -36,5 +36,5 @@ title: About
 2. [Mastodonのアイコン](https://commons.wikimedia.org/wiki/File:Font_Awesome_5_brands_mastodon.svg)は、[Font Awesome](https://fontawesome.com)により[CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/deed.en)の下に提供されています。
 3. [Friday Theme](https://sfreytag.github.io/friday-theme/)のソースコードは、下記のGitHubリポジトリにてライセンスを明示しています。
 
-なお、当サイトのソースコードは[GitHub](https://github.com/hakobera-ss/hakobera-ss.github.io)で公開しています。
+当サイトのソースコードは[GitHub](https://github.com/hakobera-ss/hakobera-ss.github.io)で公開しています。
 
