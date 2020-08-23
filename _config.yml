@@ -70,4 +70,6 @@ defaults:
       show_profile: false
       layout: defaults/list
 
-
+# Add Atom feed by Jekyll Feed plugin (https://github.com/jekyll/jekyll-feed)
+plugins:
+  - jekyll-feed
