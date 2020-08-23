@@ -5,7 +5,7 @@ narrow: true
 title: Links
 ---
 
-敬称略・順不同です。
+敬称略・順不同です。修正が必要な方はお知らせください。
 
 #### Website
 
