@@ -1,4 +1,71 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-08-23T12:40:13+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">chitose.org</title><entry><title type="html">標本をつくってわかること</title><link href="http://localhost:4000/2020/08/22/plant-specimens.html" rel="alternate" type="text/html" title="標本をつくってわかること" /><published>2020-08-22T00:00:00+09:00</published><updated>2020-08-22T00:00:00+09:00</updated><id>http://localhost:4000/2020/08/22/plant-specimens</id><content type="html" xml:base="http://localhost:4000/2020/08/22/plant-specimens.html">&lt;p&gt;このところ、野外で植物を見て回るときは、意識してさく葉標本（押し葉標本）を作るようにしています。最近は、植物の同定もアプリが普及して手軽にできるようになったとはいえ、じっくり覚えるには採集して標本を作っていくのが今でも最良の方法です。&lt;!--more--&gt;特にイネ科などは、細かな同定形質を大型の図鑑と見比べないと種名が正確に決まらないし、あとは、関東をいずれ離れてからも、比較ができるようにしておきたいという意図もあります。大学に相変わらず行けず、研究用の標本もどっちみち自宅で作製しないといけないわけなので、今年の夏はじっくり植物の同定をする時間をとりたいです。&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-08-23T23:18:44+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">chitose.org</title><entry><title type="html">GitHubで複数アカウントを使うにはHTTPS接続が楽</title><link href="http://localhost:4000/2020/08/23/github-subaccount.html" rel="alternate" type="text/html" title="GitHubで複数アカウントを使うにはHTTPS接続が楽" /><published>2020-08-23T00:00:00+09:00</published><updated>2020-08-23T00:00:00+09:00</updated><id>http://localhost:4000/2020/08/23/github-subaccount</id><content type="html" xml:base="http://localhost:4000/2020/08/23/github-subaccount.html">&lt;p&gt;タイトルが結論である。「GitHub 複数アカウント」で検索すると様々な解決方法が出てくるけど、真似してあれこれ試した結果、一番手軽だった方法はHTTPS接続することだったので記録として残しておく。&lt;/p&gt;
+
+&lt;!--more--&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;前提&quot;&gt;前提&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Git &amp;amp; GitHub 初心者が嵌ったときの参考に。あと、自分自身の備忘録にも。&lt;/li&gt;
+  &lt;li&gt;実行環境はMacOS Catalina (10.15.4)、Git ver. 2.24.2、Sourcetree ver. 4.0.2&lt;/li&gt;
+  &lt;li&gt;SourcetreeのGUI操作で &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;git clone&lt;/code&gt; まで済ませてから、VSCode、RStudioなど好きな環境でリポジトリ管理する方針&lt;/li&gt;
+  &lt;li&gt;GitHubをメインアカウント（SSH認証済み）とサブアカウント（こちら）で使い分けたい&lt;/li&gt;
+  &lt;li&gt;メインアカウントで &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;git config --global&lt;/code&gt; の設定を済ませている&lt;/li&gt;
+  &lt;li&gt;Sourcetreeにはメイン・サブ両方のアカウントを登録済み&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;去年の年末からサブ垢のgitまわりがまともに動かせずにいて、webサイトの制作もままならない状態だった。SSHの設定を変えたりターミナルでgit configの操作をしても埒があかないので、GUI（Sourcetree）の助けを借りたらうまくいくようになった。&lt;/p&gt;
+
+&lt;p&gt;冷静に考えれば、 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;~/.ssh/.config&lt;/code&gt; でSSHの設定を煩雑にするよりも、サブ垢だけSSH認証を介さずにHTTPSで接続すれば、それで解決することだったのだ。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;手順&quot;&gt;手順&lt;/h4&gt;
+
+&lt;p&gt;※色々設定をいじったので、正確に再現できていない箇所もあるかも&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;GitHubでリポジトリを作成し、URLをHTTPSに切り替えてからコピーする。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Sourcetreeで、新規→URLからクローン→1のURLをペースト。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;2のURLを次のように書き換える。（下記 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;user.name&lt;/code&gt; にサブアカウント名を入れる）&lt;/p&gt;
+
+    &lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;https://user.name@github.com/user.name/repository-name.git&lt;/code&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;保存先のパスを決めてクローン。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;リポジトリ画面を開く→設定→高度な設定→グローバルユーザー設定を使う のチェックを外して、サブアカウントのユーザー名とメールアドレスを入力。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;設定→リモート→リモートリポジトリのパス、「configファイルを編集」の2ヶ所も念のため確認して、3の設定が抜けていたら書き足す。user.name, user.emailが間違っていないかも確認。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;6までの操作で、クローンしたリポジトリの &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;git config --local&lt;/code&gt; が設定される。ローカルのフォルダにファイルを追加すれば、commit, pushができる。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;サブアカウントでの初回認証のみ、pushのときにGitHubアカウントのパスワードを聞かれる。Macでは、2回目以降はキーチェーンアクセスに保存されたパスワードを参照するので聞かれなくなる模様。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;あとは好きな開発環境でGitを使うだけ。&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;参考にしたサイト&quot;&gt;参考にしたサイト&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://qiita.com/zaki-yama/items/bfb0c2bef516af58c3fa&quot;&gt;GitHubの複数アカウントを使い分けるならSSHよりhttpsの方がいいんじゃね？という話&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://howpon.com/4738&quot;&gt;GitHub – 複数のアカウントを追加してHTTPS接続で切り替える方法&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="Git" /><summary type="html">タイトルが結論である。「GitHub 複数アカウント」で検索すると様々な解決方法が出てくるけど、真似してあれこれ試した結果、一番手軽だった方法はHTTPS接続することだったので記録として残しておく。</summary></entry><entry><title type="html">標本をつくってわかること</title><link href="http://localhost:4000/2020/08/22/plant-specimens.html" rel="alternate" type="text/html" title="標本をつくってわかること" /><published>2020-08-22T00:00:00+09:00</published><updated>2020-08-22T00:00:00+09:00</updated><id>http://localhost:4000/2020/08/22/plant-specimens</id><content type="html" xml:base="http://localhost:4000/2020/08/22/plant-specimens.html">&lt;p&gt;このところ、野外で植物を見て回るときは、意識してさく葉標本（押し葉標本）を作るようにしています。最近は、植物の同定もアプリが普及して手軽にできるようになったとはいえ、じっくり覚えるには採集して標本を作っていくのが今でも最良の方法です。&lt;!--more--&gt;特にイネ科などは、細かな同定形質を大型の図鑑と見比べないと種名が正確に決まらないし、あとは、関東をいずれ離れてからも、比較ができるようにしておきたいという意図もあります。大学に相変わらず行けず、研究用の標本もどっちみち自宅で作製しないといけないわけなので、今年の夏はじっくり植物の同定をする時間をとりたいです。&lt;/p&gt;
 
 &lt;p&gt;このごろは、ちょうどヘクソカズラが花期を迎えています。道路脇の蔦から、小さいけど華やかな花弁を広げる姿は、見つけるとちょっと嬉しくなりますね。葉や茎をちぎったときの匂いからこの名が付いているのですが、一昔前？からそれはあまりにも酷いだろうということで、別名のヤイトバナ（灸花；花の上部の模様がお灸をすえた跡に似ていることから&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; &lt;sup id=&quot;fnref:2&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;）を使ったほうがいいのでは…と呼びかける人を時折見かけます。あとはサオトメバナ（早乙女花）とも呼ばれるようです&lt;sup id=&quot;fnref:3&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;。&lt;/p&gt;
 
@@ -190,16 +257,4 @@
 
 &lt;p&gt;学位審査要件に査読付き論文が課され、修了することで指導教員と互角に渡り合える研究者であると認められるということは、つまりはこの能力を最大限これから磨かなければならないというわけだ。&lt;/p&gt;
 
-&lt;p&gt;この夏は正念場になりそうだ。たまに山へ息抜きに行きながら、原稿が進むことを願う。&lt;/p&gt;</content><author><name></name></author><category term="diary" /><summary type="html">またブログを更新する間もなく、7月を終えようとしている。</summary></entry><entry><title type="html">執筆、執筆…</title><link href="http://localhost:4000/2019/07/04/%E5%9F%B7%E7%AD%86-%E5%9F%B7%E7%AD%86.html" rel="alternate" type="text/html" title="執筆、執筆…" /><published>2019-07-04T00:00:00+09:00</published><updated>2019-07-04T00:00:00+09:00</updated><id>http://localhost:4000/2019/07/04/%E5%9F%B7%E7%AD%86%E3%80%81%E5%9F%B7%E7%AD%86...</id><content type="html" xml:base="http://localhost:4000/2019/07/04/%E5%9F%B7%E7%AD%86-%E5%9F%B7%E7%AD%86.html">&lt;p&gt;前回の更新から2週間も経ってしまった。この間、データ解析の解釈で詰まって悩んでいたり、土日はアウトリーチなおしごとで会議だったり、梅雨の晴れ間に炎天下の中フィールド調査に出たりと慌ただしい日々だった。&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;div align=&quot;center&quot;&gt;&lt;a href=&quot;https://gyazo.com/4d005bff200dfc1397928146a43c375d&quot;&gt;&lt;img src=&quot;https://i.gyazo.com/4d005bff200dfc1397928146a43c375d.jpg&quot; alt=&quot;plants&quot; width=&quot;500&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;今月の調査から、いろいろな許認可やら採集用具の支度やらが整ったので、数年前から種同定できていなかったものを採集して、正確に同定していく作業を始めた。久しぶりに、梅雨どきの花々をじっくり観察できた。あとはやっぱり、無心に歩いているときに無意識に思考の整理ができているみたいで、詰まっていた解析のヒントになりそうな考えもひねり出せたのは良かったと思う。&lt;/p&gt;
-
-&lt;p&gt;データは数年かけて溜め込んできているので、なんとか今月中には今書いてる論文を仕上げて投稿して、さっさと次の論文に着手して投稿して、さらにそれを終えて本番ともいうべきフィールド調査の計画を練っていきたいなあと思うこの頃。&lt;/p&gt;
-
-&lt;p&gt;時間の自由はかなりきく立場だけど、自分自身で進捗管理をしなきゃだし、だらだら過ごしていると、&lt;em&gt;何のために今ここにいるのか&lt;/em&gt;と鬱の波へ引き込まれそうになる。最近朝起きるのがしんどくなってきているので、ここらで切り替えないと…とは思っているのだけど。&lt;/p&gt;</content><author><name></name></author><category term="diary" /><summary type="html">前回の更新から2週間も経ってしまった。この間、データ解析の解釈で詰まって悩んでいたり、土日はアウトリーチなおしごとで会議だったり、梅雨の晴れ間に炎天下の中フィールド調査に出たりと慌ただしい日々だった。</summary></entry></feed>
+&lt;p&gt;この夏は正念場になりそうだ。たまに山へ息抜きに行きながら、原稿が進むことを願う。&lt;/p&gt;</content><author><name></name></author><category term="diary" /><summary type="html">またブログを更新する間もなく、7月を終えようとしている。</summary></entry></feed>
