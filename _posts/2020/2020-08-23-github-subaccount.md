@@ -55,5 +55,7 @@ tags:
 
 #### 参考にしたサイト
 
+- [SourceTree で複数アカウントを扱う](http://mattsudev.hatenablog.com/entry/2015/06/19/182416)
+- [sourcetreeで複数のgitアカウント管理](https://qiita.com/A-Kira/items/0f5334919e330a95f198)
 - [GitHubの複数アカウントを使い分けるならSSHよりhttpsの方がいいんじゃね？という話](https://qiita.com/zaki-yama/items/bfb0c2bef516af58c3fa)
 - [GitHub – 複数のアカウントを追加してHTTPS接続で切り替える方法](https://howpon.com/4738)
