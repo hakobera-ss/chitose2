@@ -28,3 +28,13 @@ title: Links
 - [mikura-knowledge](https://scrapbox.io/mikura-knowledge/)（かるま）
 - [つぁいにゃおんち Cajnjaŭ-n ĉ](https://scrapbox.io/ccm/)（つぁいにゃお）
 - [bibliobibuli](https://scrapbox.io/bibliobibuli/)（Admin: にらり、Editor: [felesitas.cloud](https://felesitas.cloud/)の住民たち）
+
+---
+
+#### 個人的なリンク
+
+- [はてなブログ](https://hakobe-tan.hatenablog.com)（いろんな人に読んでもらいたいときに書く技術ブログ）
+- [note](https://note.com/hakobe)（日常の記録）
+- [はてなブックマーク](https://b.hatena.ne.jp/hakobe_tan/)（公開ブクマ）
+- [読書メーター](https://bookmeter.com/users/969172)（読書記録）
+- [Amazonほしい物リスト](https://www.amazon.jp/hz/wishlist/ls/XLP4ERU63SRX?ref_=wl_share)
