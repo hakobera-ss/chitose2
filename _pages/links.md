@@ -33,7 +33,7 @@ title: Links
 
 #### 個人的なリンク
 
-- [はてなブログ](https://hakobe-tan.hatenablog.com)（いろんな人に読んでもらいたいときに書く技術ブログ）
+- [はてなブログ](https://hakobe-tan.hatenablog.com)（技術ブログ）
 - [note](https://note.com/hakobe)（日常の記録）
 - [Scrapbox/hakobe-public](https://scrapbox.io/hakobe-public/)（情報収集と整理）
 - [はてなブックマーク](https://b.hatena.ne.jp/hakobe_tan/)（時系列の公開ブックマーク）
