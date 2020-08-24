@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-08-24T13:11:29+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">chitose.org</title><entry><title type="html">GitHubで複数アカウントを使うにはHTTPS接続が楽</title><link href="http://localhost:4000/2020/08/23/github-subaccount.html" rel="alternate" type="text/html" title="GitHubで複数アカウントを使うにはHTTPS接続が楽" /><published>2020-08-23T00:00:00+09:00</published><updated>2020-08-23T00:00:00+09:00</updated><id>http://localhost:4000/2020/08/23/github-subaccount</id><content type="html" xml:base="http://localhost:4000/2020/08/23/github-subaccount.html">&lt;p&gt;タイトルが結論である。「GitHub 複数アカウント」で検索すると様々な解決方法が出てくるけど、真似してあれこれ試した結果、一番手軽だった方法はHTTPS接続することだったので記録として残しておく。&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-08-25T03:12:38+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">chitose.org</title><entry><title type="html">GitHubで複数アカウントを使うにはHTTPS接続が楽</title><link href="http://localhost:4000/2020/08/23/github-subaccount.html" rel="alternate" type="text/html" title="GitHubで複数アカウントを使うにはHTTPS接続が楽" /><published>2020-08-23T00:00:00+09:00</published><updated>2020-08-23T00:00:00+09:00</updated><id>http://localhost:4000/2020/08/23/github-subaccount</id><content type="html" xml:base="http://localhost:4000/2020/08/23/github-subaccount.html">&lt;p&gt;タイトルが結論である。「GitHub 複数アカウント」で検索すると様々な解決方法が出てくるけど、真似してあれこれ試した結果、一番手軽だった方法はHTTPS接続することだったので記録として残しておく。&lt;/p&gt;
 
 &lt;!--more--&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -105,7 +105,22 @@
 
 &lt;p&gt;はてなブログのエントリの大部分と、「闇落ちさくらちゃん」シリーズをまとめることができたので、これでひとまずは完成です。&lt;/p&gt;
 
-&lt;p&gt;この2,3日ほど急にやる気が出て一気に作ってしまったけど、本当はこんなことしている場合じゃないのだよなぁ。論文が一向に進まない。。&lt;/p&gt;</content><author><name></name></author><category term="notice" /><summary type="html">はてなブログから、GitHub Pages &amp;amp; Jekyll &amp;amp; Friday Theme を使ったブログ兼ポートフォリオへと移行しました。古い記事はこちらにまとめて、はてなブログのエントリは削除しました。</summary></entry><entry><title type="html">Mendeleyを使った文献管理のTips</title><link href="http://localhost:4000/2020/05/26/mendeley-for-japanese.html" rel="alternate" type="text/html" title="Mendeleyを使った文献管理のTips" /><published>2020-05-26T00:00:00+09:00</published><updated>2020-05-26T00:00:00+09:00</updated><id>http://localhost:4000/2020/05/26/mendeley-for-japanese</id><content type="html" xml:base="http://localhost:4000/2020/05/26/mendeley-for-japanese.html">&lt;p&gt;Mendeleyは日本語文献の管理が苦手なので、ちょっとしたコツがいる。このエントリは随時加筆予定。&lt;/p&gt;
+&lt;p&gt;この2,3日ほど急にやる気が出て一気に作ってしまったけど、本当はこんなことしている場合じゃないのだよなぁ。論文が一向に進まない。。&lt;/p&gt;</content><author><name></name></author><category term="notice" /><summary type="html">はてなブログから、GitHub Pages &amp;amp; Jekyll &amp;amp; Friday Theme を使ったブログ兼ポートフォリオへと移行しました。古い記事はこちらにまとめて、はてなブログのエントリは削除しました。</summary></entry><entry><title type="html">2020年8月</title><link href="http://localhost:4000/2020/08/01/monthly-diary.html" rel="alternate" type="text/html" title="2020年8月" /><published>2020-08-01T00:00:00+09:00</published><updated>2020-08-01T00:00:00+09:00</updated><id>http://localhost:4000/2020/08/01/monthly-diary</id><content type="html" xml:base="http://localhost:4000/2020/08/01/monthly-diary.html">&lt;p&gt;Blogページが長くなってしまうので、月ごとに日記エントリをまとめる。今月から夏休み。&lt;/p&gt;
+
+&lt;!--more--&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;20200824&quot;&gt;2020/08/24&lt;/h5&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;1ヶ月ぶりくらいにようやく集中力が戻ってきたのだけど、研究に気持ちが向かわないのがどうにもならない。連日、研究室のSlackでは野外調査の連絡が飛び交っているのに自分は何をしているのだろうと思う。そう思うのだが、手が進まないヤバさよ。&lt;/li&gt;
+  &lt;li&gt;机に向かって趣味のことを多少する以外はずっと寝ている状態なので、せめて近所に散歩に出かけたらとも思うが、出かけないと…という強迫観念が残るだけで何もできていない。&lt;/li&gt;
+  &lt;li&gt;午前中に過去の読書記録の整理（読書メーターへ読んだ本の追加）、夜にちょっとだけGISをいじった。ダム湖を含まない湖沼の一覧がネット上で見つからないという話を耳にしたので、国土数値情報から湖沼とダムのシェープファイルを入手してQGISで加工、GeoJSONで出力してGitHubにアップするというのをやった。属性情報がまだテキトーなので、直したらもうちょっと便利になると思う。埋め込みをここで試してみたけど、良さげ。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div align=&quot;center&quot;&gt;
+&lt;script src=&quot;https://embed.github.com/view/geojson/hakobera-ss/lake-and-dam/master/natural-lake.geojson&quot;&gt;&lt;/script&gt;
+&lt;/div&gt;</content><author><name></name></author><category term="diary" /><summary type="html">Blogページが長くなってしまうので、月ごとに日記エントリをまとめる。今月から夏休み。</summary></entry><entry><title type="html">Mendeleyを使った文献管理のTips</title><link href="http://localhost:4000/2020/05/26/mendeley-for-japanese.html" rel="alternate" type="text/html" title="Mendeleyを使った文献管理のTips" /><published>2020-05-26T00:00:00+09:00</published><updated>2020-05-26T00:00:00+09:00</updated><id>http://localhost:4000/2020/05/26/mendeley-for-japanese</id><content type="html" xml:base="http://localhost:4000/2020/05/26/mendeley-for-japanese.html">&lt;p&gt;Mendeleyは日本語文献の管理が苦手なので、ちょっとしたコツがいる。このエントリは随時加筆予定。&lt;/p&gt;
 
 &lt;!--more--&gt;
 
@@ -284,20 +299,4 @@
 
 &lt;p&gt;それにしても、論文の進捗がだめすぎる（ｎ回目）。ちびちびとデータ起こしをしたりイントロの修正をしたりしているが、どこに進んでも何をやっても行き詰まり、それを乗り越える気力が出てこない。まとまった時間を今度こそとろうと思ったら、アウトリーチのおしごとやら身内の不幸やらでごっそり研究から離れてしまう状態…。まあ、アウトリーチのしごとは、それはそれでメインの研究にもつながる要素があるので、大事にしたいとは思っているけども。でも研究者として新しい知見を世に出すという本分を全うしなければ、今ここにいる意味がない。&lt;/p&gt;
 
-&lt;p&gt;「毎日コンスタントに＊＊＊＊文字ずつ原稿を書く」とかできたらいいんだけどなぁ。監視する人もいない中で、コツコツ論文を書き上げる生活習慣を作りたい。切実に。&lt;/p&gt;</content><author><name></name></author><category term="diary" /><summary type="html">8月のお盆明け、突発的に脳のハードウェアにとある異常が生じてから、どうにも集中して思考をすることができずにいる。深く考えようとすると締め付けられるような頭痛がしてしまう。</summary></entry><entry><title type="html">夏休み</title><link href="http://localhost:4000/2019/08/12/%E5%A4%8F%E4%BC%91%E3%81%BF.html" rel="alternate" type="text/html" title="夏休み" /><published>2019-08-12T00:00:00+09:00</published><updated>2019-08-12T00:00:00+09:00</updated><id>http://localhost:4000/2019/08/12/%E5%A4%8F%E4%BC%91%E3%81%BF</id><content type="html" xml:base="http://localhost:4000/2019/08/12/%E5%A4%8F%E4%BC%91%E3%81%BF.html">&lt;p&gt;大学が夏休みになる8〜9月が、研究者にとって（頭脳労働的に）繁忙期だということは、世の中に意外と知られていないのではないかと思う。7月までにもう少しペースを上げておけば…といいつつ、今も目の前の論文書きから現実逃避している。&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;p&gt;進学して約4ヶ月半が経って、生活はだいぶ落ち着いた。
-仕事をしていたときと比べると、人と会ったり話したりする機会がほとんどなくなっていて、ああ、修士のときもこんな感じだったなぁと思いだしてきた。&lt;/p&gt;
-
-&lt;p&gt;つねづね、メンタル面でも生活面でも、研究って孤独なものなんじゃないかと考えている（もっとも、共同研究することが前提の分野ではそうではないだろうが、私のところでは少数派である）。&lt;/p&gt;
-
-&lt;p&gt;自分は修士で他大学へ進学したので、そのときに人間関係が一度リセットされた。そのときは積極的に研究室以外で人間関係を作ろうとしなかったから、バイト先以外で人と会ったり話したりすることは稀で、研究がうまくいかなくなってからは自ずと病んだ。
-就職してからはそういうこともあって、職場以外での人間関係も広げるようにした。というか、たまたま所属していたNPOから芋づる式に人脈が広がっていって、結果、そのおかげで今の研究テーマと指導教員にたどり着いたのが実態である。よく、人間関係は複数持ったほうがよいと言われるけど、本当にそれはそうだと思う。&lt;/p&gt;
-
-&lt;p&gt;そもそも研究というもの自体が、何かしら新しい知見を生み出した時点では、その意義を見いだせる人は自分自身の他は競合研究者くらいしかいないわけだし、周りから見たら”よくわからないことを面白がってる”状態でしかない。自分が見つけた意義付けが正しいかなんて誰も保証してくれない((査読まで進めば、査読者からコメントをもらえるわけだが))し、進む方向がこれで良いかどうかも自分が決めるしかない。&lt;/p&gt;
-
-&lt;p&gt;今取り組んでるテーマは、かつて挫折した基礎的な分野からは少し離れて、人間社会、もっと具体的にいえば＊＊集落とか、＃＃地区の？？さんとか、リアルに目に見える人たちの力になれたらというのがモチベーションの根底にある。&lt;/p&gt;
-
-&lt;p&gt;だから、今度こそきっとだいじょうぶ。この夏でまずは論文を形にしよう。&lt;/p&gt;</content><author><name></name></author><category term="diary" /><summary type="html">大学が夏休みになる8〜9月が、研究者にとって（頭脳労働的に）繁忙期だということは、世の中に意外と知られていないのではないかと思う。7月までにもう少しペースを上げておけば…といいつつ、今も目の前の論文書きから現実逃避している。</summary></entry></feed>
+&lt;p&gt;「毎日コンスタントに＊＊＊＊文字ずつ原稿を書く」とかできたらいいんだけどなぁ。監視する人もいない中で、コツコツ論文を書き上げる生活習慣を作りたい。切実に。&lt;/p&gt;</content><author><name></name></author><category term="diary" /><summary type="html">8月のお盆明け、突発的に脳のハードウェアにとある異常が生じてから、どうにも集中して思考をすることができずにいる。深く考えようとすると締め付けられるような頭痛がしてしまう。</summary></entry></feed>
