@@ -1,7 +1,6 @@
 ---
 title:  標本をつくってわかること
 tags:
-  - diary
   - plant
 
 ---
