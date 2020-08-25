@@ -1,4 +1,30 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-08-25T03:12:38+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">chitose.org</title><entry><title type="html">GitHubで複数アカウントを使うにはHTTPS接続が楽</title><link href="http://localhost:4000/2020/08/23/github-subaccount.html" rel="alternate" type="text/html" title="GitHubで複数アカウントを使うにはHTTPS接続が楽" /><published>2020-08-23T00:00:00+09:00</published><updated>2020-08-23T00:00:00+09:00</updated><id>http://localhost:4000/2020/08/23/github-subaccount</id><content type="html" xml:base="http://localhost:4000/2020/08/23/github-subaccount.html">&lt;p&gt;タイトルが結論である。「GitHub 複数アカウント」で検索すると様々な解決方法が出てくるけど、真似してあれこれ試した結果、一番手軽だった方法はHTTPS接続することだったので記録として残しておく。&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-08-25T19:52:34+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">chitose.org</title><entry><title type="html">2020年8月</title><link href="http://localhost:4000/2020/08/25/monthly-diary.html" rel="alternate" type="text/html" title="2020年8月" /><published>2020-08-25T00:00:00+09:00</published><updated>2020-08-25T00:00:00+09:00</updated><id>http://localhost:4000/2020/08/25/monthly-diary</id><content type="html" xml:base="http://localhost:4000/2020/08/25/monthly-diary.html">&lt;p&gt;Blogページが長くなってしまうので、月ごとに日記エントリをまとめることにしてみた。今月から夏休み。&lt;/p&gt;
+
+&lt;!--more--&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;20200825&quot;&gt;2020/08/25&lt;/h5&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;原稿のMarkdownファイルをrename（日付を変更）したらフィードが再配信されるかどうか試してみる。&lt;/li&gt;
+  &lt;li&gt;珍しく9時台に起床。午前中は地元のネットニュースを見つつ、情報収集で時間を費やす。&lt;/li&gt;
+  &lt;li&gt;今書いている論文、原稿の内容としては本当にもうちょっとなんだが、そのちょっとをずっと書けずにいる。既往研究の知見は十分なくらいインプットできていて、こういうことを書いたらいいんだよなということはもやっとイメージできるのだけど、それがうまく言語化できない。データの解釈しだいで論文の価値も大きく変わるので手が抜けないし。でたらめでもいいから書いてみたらいいのだろうか。うーん……。&lt;/li&gt;
+  &lt;li&gt;もしくは、これだけ時間が流れてしまうのであれば、中断している2本めの論文に着手した方がいいのかもしれない。はぁ。調査にもいい加減行きたいし。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;20200824&quot;&gt;2020/08/24&lt;/h5&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;1ヶ月ぶりくらいにようやく集中力が戻ってきたのだけど、研究に気持ちが向かわないのがどうにもならない。連日、研究室のSlackでは野外調査の連絡が飛び交っているのに自分は何をしているのだろうと思う。そう思うのだが、手が進まないヤバさよ。&lt;/li&gt;
+  &lt;li&gt;机に向かって趣味のことを多少する以外はずっと寝ている状態なので、せめて近所に散歩に出かけたらとも思うが、出かけないと…という強迫観念が残るだけで何もできていない。&lt;/li&gt;
+  &lt;li&gt;午前中に過去の読書記録の整理（読書メーターへ読んだ本の追加）、夜にちょっとだけGISをいじった。ダム湖を含まない湖沼の一覧がネット上で見つからないという話を耳にしたので、国土数値情報から湖沼とダムのシェープファイルを入手してQGISで加工、GeoJSONで出力してGitHubにアップするというのをやった。属性情報がまだテキトーなので、直したらもうちょっと便利になると思う。埋め込みをここで試してみたけど、良さげ。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div align=&quot;center&quot;&gt;
+&lt;script src=&quot;https://embed.github.com/view/geojson/hakobera-ss/lake-and-dam/master/natural-lake.geojson&quot;&gt;&lt;/script&gt;
+&lt;/div&gt;</content><author><name></name></author><category term="diary" /><summary type="html">Blogページが長くなってしまうので、月ごとに日記エントリをまとめることにしてみた。今月から夏休み。</summary></entry><entry><title type="html">GitHubで複数アカウントを使うにはHTTPS接続が楽</title><link href="http://localhost:4000/2020/08/23/github-subaccount.html" rel="alternate" type="text/html" title="GitHubで複数アカウントを使うにはHTTPS接続が楽" /><published>2020-08-23T00:00:00+09:00</published><updated>2020-08-23T00:00:00+09:00</updated><id>http://localhost:4000/2020/08/23/github-subaccount</id><content type="html" xml:base="http://localhost:4000/2020/08/23/github-subaccount.html">&lt;p&gt;「GitHub 複数アカウント」で検索すると様々な解決方法が出てくるけど、真似してあれこれ試した結果、一番手軽だった方法はHTTPS接続することだったので記録として残しておく。&lt;/p&gt;
 
 &lt;!--more--&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -67,7 +93,7 @@
   &lt;li&gt;&lt;a href=&quot;https://qiita.com/A-Kira/items/0f5334919e330a95f198&quot;&gt;sourcetreeで複数のgitアカウント管理&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://qiita.com/zaki-yama/items/bfb0c2bef516af58c3fa&quot;&gt;GitHubの複数アカウントを使い分けるならSSHよりhttpsの方がいいんじゃね？という話&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://howpon.com/4738&quot;&gt;GitHub – 複数のアカウントを追加してHTTPS接続で切り替える方法&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><category term="Git" /><summary type="html">タイトルが結論である。「GitHub 複数アカウント」で検索すると様々な解決方法が出てくるけど、真似してあれこれ試した結果、一番手軽だった方法はHTTPS接続することだったので記録として残しておく。</summary></entry><entry><title type="html">標本をつくってわかること</title><link href="http://localhost:4000/2020/08/22/plant-specimens.html" rel="alternate" type="text/html" title="標本をつくってわかること" /><published>2020-08-22T00:00:00+09:00</published><updated>2020-08-22T00:00:00+09:00</updated><id>http://localhost:4000/2020/08/22/plant-specimens</id><content type="html" xml:base="http://localhost:4000/2020/08/22/plant-specimens.html">&lt;p&gt;このところ、野外で植物を見て回るときは、意識してさく葉標本（押し葉標本）を作るようにしています。最近は、植物の同定もアプリが普及して手軽にできるようになったとはいえ、じっくり覚えるには採集して標本を作っていくのが今でも最良の方法です。&lt;!--more--&gt;特にイネ科などは、細かな同定形質を大型の図鑑と見比べないと種名が正確に決まらないし、あとは、関東をいずれ離れてからも、比較ができるようにしておきたいという意図もあります。大学に相変わらず行けず、研究用の標本もどっちみち自宅で作製しないといけないわけなので、今年の夏はじっくり植物の同定をする時間をとりたいです。&lt;/p&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="Git" /><summary type="html">「GitHub 複数アカウント」で検索すると様々な解決方法が出てくるけど、真似してあれこれ試した結果、一番手軽だった方法はHTTPS接続することだったので記録として残しておく。</summary></entry><entry><title type="html">標本をつくってわかること</title><link href="http://localhost:4000/2020/08/22/plant-specimens.html" rel="alternate" type="text/html" title="標本をつくってわかること" /><published>2020-08-22T00:00:00+09:00</published><updated>2020-08-22T00:00:00+09:00</updated><id>http://localhost:4000/2020/08/22/plant-specimens</id><content type="html" xml:base="http://localhost:4000/2020/08/22/plant-specimens.html">&lt;p&gt;このところ、野外で植物を見て回るときは、意識してさく葉標本（押し葉標本）を作るようにしています。最近は、植物の同定もアプリが普及して手軽にできるようになったとはいえ、じっくり覚えるには採集して標本を作っていくのが今でも最良の方法です。&lt;!--more--&gt;特にイネ科などは、細かな同定形質を大型の図鑑と見比べないと種名が正確に決まらないし、あとは、関東をいずれ離れてからも、比較ができるようにしておきたいという意図もあります。大学に相変わらず行けず、研究用の標本もどっちみち自宅で作製しないといけないわけなので、今年の夏はじっくり植物の同定をする時間をとりたいです。&lt;/p&gt;
 
 &lt;p&gt;このごろは、ちょうどヘクソカズラが花期を迎えています。道路脇の蔦から、小さいけど華やかな花弁を広げる姿は、見つけるとちょっと嬉しくなりますね。葉や茎をちぎったときの匂いからこの名が付いているのですが、一昔前？からそれはあまりにも酷いだろうということで、別名のヤイトバナ（灸花；花の上部の模様がお灸をすえた跡に似ていることから&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; &lt;sup id=&quot;fnref:2&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;）を使ったほうがいいのでは…と呼びかける人を時折見かけます。あとはサオトメバナ（早乙女花）とも呼ばれるようです&lt;sup id=&quot;fnref:3&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;。&lt;/p&gt;
 
@@ -99,28 +125,13 @@
       &lt;p&gt;&lt;a href=&quot;[https://ja.wikipedia.org/wiki/%E3%83%98%E3%82%AF%E3%82%BD%E3%82%AB%E3%82%BA%E3%83%A9&quot;&gt;Wikipedia｜ヘクソカズラ&lt;/a&gt; &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
-&lt;/div&gt;</content><author><name></name></author><category term="diary" /><category term="plant" /><summary type="html">このところ、野外で植物を見て回るときは、意識してさく葉標本（押し葉標本）を作るようにしています。最近は、植物の同定もアプリが普及して手軽にできるようになったとはいえ、じっくり覚えるには採集して標本を作っていくのが今でも最良の方法です。</summary></entry><entry><title type="html">ブログを移行しました</title><link href="http://localhost:4000/2020/08/20/%E3%83%96%E3%83%AD%E3%82%B0%E3%82%92%E7%A7%BB%E8%A1%8C%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F.html" rel="alternate" type="text/html" title="ブログを移行しました" /><published>2020-08-20T00:00:00+09:00</published><updated>2020-08-20T00:00:00+09:00</updated><id>http://localhost:4000/2020/08/20/%E3%83%96%E3%83%AD%E3%82%B0%E3%82%92%E7%A7%BB%E8%A1%8C%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F</id><content type="html" xml:base="http://localhost:4000/2020/08/20/%E3%83%96%E3%83%AD%E3%82%B0%E3%82%92%E7%A7%BB%E8%A1%8C%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F.html">&lt;p&gt;はてなブログから、GitHub Pages &amp;amp;  &lt;a href=&quot;http://jekyllrb-ja.github.io&quot;&gt;Jekyll&lt;/a&gt; &amp;amp; &lt;a href=&quot;https://sfreytag.github.io/friday-theme/&quot;&gt;Friday Theme&lt;/a&gt; を使ったブログ兼ポートフォリオへと移行しました。古い記事はこちらにまとめて、はてなブログのエントリは削除しました。&lt;/p&gt;
+&lt;/div&gt;</content><author><name></name></author><category term="plant" /><summary type="html">このところ、野外で植物を見て回るときは、意識してさく葉標本（押し葉標本）を作るようにしています。最近は、植物の同定もアプリが普及して手軽にできるようになったとはいえ、じっくり覚えるには採集して標本を作っていくのが今でも最良の方法です。</summary></entry><entry><title type="html">ブログを移行しました</title><link href="http://localhost:4000/2020/08/20/%E3%83%96%E3%83%AD%E3%82%B0%E3%82%92%E7%A7%BB%E8%A1%8C%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F.html" rel="alternate" type="text/html" title="ブログを移行しました" /><published>2020-08-20T00:00:00+09:00</published><updated>2020-08-20T00:00:00+09:00</updated><id>http://localhost:4000/2020/08/20/%E3%83%96%E3%83%AD%E3%82%B0%E3%82%92%E7%A7%BB%E8%A1%8C%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F</id><content type="html" xml:base="http://localhost:4000/2020/08/20/%E3%83%96%E3%83%AD%E3%82%B0%E3%82%92%E7%A7%BB%E8%A1%8C%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F.html">&lt;p&gt;はてなブログから、GitHub Pages &amp;amp;  &lt;a href=&quot;http://jekyllrb-ja.github.io&quot;&gt;Jekyll&lt;/a&gt; &amp;amp; &lt;a href=&quot;https://sfreytag.github.io/friday-theme/&quot;&gt;Friday Theme&lt;/a&gt; を使ったブログ兼ポートフォリオへと移行しました。古い記事はこちらにまとめて、はてなブログのエントリは削除しました。&lt;/p&gt;
 
 &lt;!--more--&gt;
 
 &lt;p&gt;はてなブログのエントリの大部分と、「闇落ちさくらちゃん」シリーズをまとめることができたので、これでひとまずは完成です。&lt;/p&gt;
 
-&lt;p&gt;この2,3日ほど急にやる気が出て一気に作ってしまったけど、本当はこんなことしている場合じゃないのだよなぁ。論文が一向に進まない。。&lt;/p&gt;</content><author><name></name></author><category term="notice" /><summary type="html">はてなブログから、GitHub Pages &amp;amp; Jekyll &amp;amp; Friday Theme を使ったブログ兼ポートフォリオへと移行しました。古い記事はこちらにまとめて、はてなブログのエントリは削除しました。</summary></entry><entry><title type="html">2020年8月</title><link href="http://localhost:4000/2020/08/01/monthly-diary.html" rel="alternate" type="text/html" title="2020年8月" /><published>2020-08-01T00:00:00+09:00</published><updated>2020-08-01T00:00:00+09:00</updated><id>http://localhost:4000/2020/08/01/monthly-diary</id><content type="html" xml:base="http://localhost:4000/2020/08/01/monthly-diary.html">&lt;p&gt;Blogページが長くなってしまうので、月ごとに日記エントリをまとめる。今月から夏休み。&lt;/p&gt;
-
-&lt;!--more--&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;h5 id=&quot;20200824&quot;&gt;2020/08/24&lt;/h5&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;1ヶ月ぶりくらいにようやく集中力が戻ってきたのだけど、研究に気持ちが向かわないのがどうにもならない。連日、研究室のSlackでは野外調査の連絡が飛び交っているのに自分は何をしているのだろうと思う。そう思うのだが、手が進まないヤバさよ。&lt;/li&gt;
-  &lt;li&gt;机に向かって趣味のことを多少する以外はずっと寝ている状態なので、せめて近所に散歩に出かけたらとも思うが、出かけないと…という強迫観念が残るだけで何もできていない。&lt;/li&gt;
-  &lt;li&gt;午前中に過去の読書記録の整理（読書メーターへ読んだ本の追加）、夜にちょっとだけGISをいじった。ダム湖を含まない湖沼の一覧がネット上で見つからないという話を耳にしたので、国土数値情報から湖沼とダムのシェープファイルを入手してQGISで加工、GeoJSONで出力してGitHubにアップするというのをやった。属性情報がまだテキトーなので、直したらもうちょっと便利になると思う。埋め込みをここで試してみたけど、良さげ。&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;div align=&quot;center&quot;&gt;
-&lt;script src=&quot;https://embed.github.com/view/geojson/hakobera-ss/lake-and-dam/master/natural-lake.geojson&quot;&gt;&lt;/script&gt;
-&lt;/div&gt;</content><author><name></name></author><category term="diary" /><summary type="html">Blogページが長くなってしまうので、月ごとに日記エントリをまとめる。今月から夏休み。</summary></entry><entry><title type="html">Mendeleyを使った文献管理のTips</title><link href="http://localhost:4000/2020/05/26/mendeley-for-japanese.html" rel="alternate" type="text/html" title="Mendeleyを使った文献管理のTips" /><published>2020-05-26T00:00:00+09:00</published><updated>2020-05-26T00:00:00+09:00</updated><id>http://localhost:4000/2020/05/26/mendeley-for-japanese</id><content type="html" xml:base="http://localhost:4000/2020/05/26/mendeley-for-japanese.html">&lt;p&gt;Mendeleyは日本語文献の管理が苦手なので、ちょっとしたコツがいる。このエントリは随時加筆予定。&lt;/p&gt;
+&lt;p&gt;この2,3日ほど急にやる気が出て一気に作ってしまったけど、本当はこんなことしている場合じゃないのだよなぁ。論文が一向に進まない。。&lt;/p&gt;</content><author><name></name></author><category term="notice" /><summary type="html">はてなブログから、GitHub Pages &amp;amp; Jekyll &amp;amp; Friday Theme を使ったブログ兼ポートフォリオへと移行しました。古い記事はこちらにまとめて、はてなブログのエントリは削除しました。</summary></entry><entry><title type="html">Mendeleyを使った文献管理のTips</title><link href="http://localhost:4000/2020/05/26/mendeley-for-japanese.html" rel="alternate" type="text/html" title="Mendeleyを使った文献管理のTips" /><published>2020-05-26T00:00:00+09:00</published><updated>2020-05-26T00:00:00+09:00</updated><id>http://localhost:4000/2020/05/26/mendeley-for-japanese</id><content type="html" xml:base="http://localhost:4000/2020/05/26/mendeley-for-japanese.html">&lt;p&gt;Mendeleyは日本語文献の管理が苦手なので、ちょっとしたコツがいる。このエントリは随時加筆予定。&lt;/p&gt;
 
 &lt;!--more--&gt;
 

@@ -34,7 +34,8 @@ title: About
 
 1. ブログなどの本文中で引用した著作物（例：写真の引用）は、別途、それぞれの引用元及びライセンスを個別に明示しています。また、引用元のライセンスによっては、当サイト内の一部のライセンスをCC-BY-4.0から変更する場合があります。
 2. [Mastodonのアイコン](https://commons.wikimedia.org/wiki/File:Font_Awesome_5_brands_mastodon.svg)は、[Font Awesome](https://fontawesome.com)により[CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/deed.en)の下に提供されています。
-3. [Friday Theme](https://sfreytag.github.io/friday-theme/)のソースコードは、下記のGitHubリポジトリにてライセンスを明示しています。
+3. faviconは、[いらすとや](https://www.irasutoya.com) の [七草のイラスト「はこべら・繁縷」](https://www.irasutoya.com/2014/03/blog-post_153.html) を加工して使用しています。
+4. [Friday Theme](https://sfreytag.github.io/friday-theme/)のソースコードは、下記のGitHubリポジトリにてライセンスを明示しています。
 
 当サイトのソースコードは[GitHub](https://github.com/hakobera-ss/hakobera-ss.github.io)で公開しています。
 

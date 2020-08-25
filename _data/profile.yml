@@ -4,7 +4,8 @@
 
 - caption: Mastodon
   href: https://felesitas.cloud/@hakobe
-  icon: icons/mastodon-brands.svg
+  rel: "me"
+  icon: icons/mastodon.svg
 
 - caption: Twitter
   href: https://www.twitter.com/hakobe2020
