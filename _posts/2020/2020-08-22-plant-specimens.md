@@ -11,7 +11,7 @@ tags:
 
 <br>
 
-<div align="center"><a href="https://gyazo.com/aea2bd015939812d14413fd51a326d27"><img src="https://i.gyazo.com/aea2bd015939812d14413fd51a326d27.jpg" alt="ヘクソカズラ" width="500"/></a></div>
+<div align="center"><img src="https://i.gyazo.com/aea2bd015939812d14413fd51a326d27.jpg" alt="ヘクソカズラ" width="500"/></div>
 
 <br>
 
