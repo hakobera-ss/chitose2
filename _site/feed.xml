@@ -1,9 +1,19 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-08-28T22:29:07+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">chitose.org</title><entry><title type="html">2020年8月</title><link href="http://localhost:4000/2020/08/28/monthly-diary.html" rel="alternate" type="text/html" title="2020年8月" /><published>2020-08-28T00:00:00+09:00</published><updated>2020-08-28T00:00:00+09:00</updated><id>http://localhost:4000/2020/08/28/monthly-diary</id><content type="html" xml:base="http://localhost:4000/2020/08/28/monthly-diary.html">&lt;p&gt;Blogページが長くなってしまうので、月ごとに日記エントリをまとめることにしてみた。今月から夏休み。&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-08-29T21:53:18+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">chitose.org</title><entry><title type="html">2020年8月</title><link href="http://localhost:4000/2020/08/29/monthly-diary.html" rel="alternate" type="text/html" title="2020年8月" /><published>2020-08-29T00:00:00+09:00</published><updated>2020-08-29T00:00:00+09:00</updated><id>http://localhost:4000/2020/08/29/monthly-diary</id><content type="html" xml:base="http://localhost:4000/2020/08/29/monthly-diary.html">&lt;p&gt;Blogページが長くなってしまうので、月ごとに日記エントリをまとめることにしてみた。今月から夏休み。&lt;/p&gt;
 
 &lt;!--more--&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;h5 id=&quot;20200828&quot;&gt;2020/08/28&lt;/h5&gt;
+&lt;h5 id=&quot;2020-08-29&quot;&gt;2020-08-29&lt;/h5&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;8時起床。昨夜はDiscordに繋いだまま寝落ちしてしまったらしい。マイクだけは切っておいてよかった…。&lt;/li&gt;
+  &lt;li&gt;土曜日なので（といっても平日にちゃんと稼働できているわけではないが）、だらだらとブログをいじっていた。まずはブログページが長くなってしまっているのでページ分けをしたいのだけど、&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll-paginate&lt;/code&gt;がうまく入らない。別のテーマ、例えばよく使われている&lt;a href=&quot;https://github.com/mmistakes/minimal-mistakes/&quot;&gt;Minimal Mistakes&lt;/a&gt;を試してもよいのだけど、高機能過ぎて手に余るだろうから、今のテーマを改良する方向で進めていく。&lt;/li&gt;
+  &lt;li&gt;この手の調べ物をすると、同じような個人ブログをよく見かける。まったく見ず知らずの人の日常が書かれたものであっても、その人の考えが滲み出ている文章はやはり面白くて、（他人に読まれるかは別として）自分もそういうものを残したいなと思う。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;2020-08-28&quot;&gt;2020-08-28&lt;/h5&gt;
 
 &lt;ul&gt;
   &lt;li&gt;4時起床。軽く夜食を食べて二度寝。最近すっかりこの生活パターンになってしまっている。それでも昼夜逆転よりはましかな。&lt;/li&gt;
@@ -13,7 +23,7 @@
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;h5 id=&quot;20200827&quot;&gt;2020/08/27&lt;/h5&gt;
+&lt;h5 id=&quot;2020-08-27&quot;&gt;2020-08-27&lt;/h5&gt;
 
 &lt;ul&gt;
   &lt;li&gt;2時半起床。寝る前にごはんを食べなかったのでふらふらになりながら夜食を食べる。そのあと二度寝して正午ごろ起床。昼間には起きて動ける程度には体調が回復した。&lt;/li&gt;
@@ -22,7 +32,7 @@
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;h5 id=&quot;20200826&quot;&gt;2020/08/26&lt;/h5&gt;
+&lt;h5 id=&quot;2020-08-26&quot;&gt;2020-08-26&lt;/h5&gt;
 
 &lt;ul&gt;
   &lt;li&gt;前日は20時ころにはいろいろどうでもよくなって寝てしまったので、午前1時に起床。今日も若干寝不足。一旦起きた後、明け方から昼前まで二度寝。&lt;/li&gt;
@@ -31,7 +41,7 @@
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;h5 id=&quot;20200825&quot;&gt;2020/08/25&lt;/h5&gt;
+&lt;h5 id=&quot;2020-08-25&quot;&gt;2020-08-25&lt;/h5&gt;
 
 &lt;ul&gt;
   &lt;li&gt;原稿のMarkdownファイルをrename（日付を変更）したらフィードが再配信されるかどうか試してみる。&lt;/li&gt;
@@ -42,7 +52,7 @@
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;h5 id=&quot;20200824&quot;&gt;2020/08/24&lt;/h5&gt;
+&lt;h5 id=&quot;2020-08-24&quot;&gt;2020-08-24&lt;/h5&gt;
 
 &lt;ul&gt;
   &lt;li&gt;1ヶ月ぶりくらいにようやく集中力が戻ってきたのだけど、研究に気持ちが向かわないのがどうにもならない。連日、研究室のSlackでは野外調査の連絡が飛び交っているのに自分は何をしているのだろうと思う。そう思うのだが、手が進まないヤバさよ。&lt;/li&gt;
