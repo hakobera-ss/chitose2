@@ -1,5 +1,5 @@
 ---
-title:  2020年9月
+title:  2020年9月 日々の記録
 tags:
   - diary
 
