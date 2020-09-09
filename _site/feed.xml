@@ -1,6 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-09-09T05:01:46+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">chitose.org</title><entry><title type="html">2020年9月 日々の記録</title><link href="http://localhost:4000/2020/09/08/monthly-diary.html" rel="alternate" type="text/html" title="2020年9月 日々の記録" /><published>2020-09-08T00:00:00+09:00</published><updated>2020-09-08T00:00:00+09:00</updated><id>http://localhost:4000/2020/09/08/monthly-diary</id><content type="html" xml:base="http://localhost:4000/2020/09/08/monthly-diary.html">&lt;p&gt;夏休み後半。秋来たる。&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-09-09T22:28:49+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">chitose.org</title><entry><title type="html">2020年9月 日々の記録</title><link href="http://localhost:4000/2020/09/09/monthly-diary.html" rel="alternate" type="text/html" title="2020年9月 日々の記録" /><published>2020-09-09T00:00:00+09:00</published><updated>2020-09-09T00:00:00+09:00</updated><id>http://localhost:4000/2020/09/09/monthly-diary</id><content type="html" xml:base="http://localhost:4000/2020/09/09/monthly-diary.html">&lt;p&gt;夏休み後半。秋来たる。&lt;/p&gt;
 
 &lt;!--more--&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;10時起床。4時間しか眠れてないが、寝起きは良い。&lt;/li&gt;
+  &lt;li&gt;高校生の頃から現在まで、非公開のオンラインブックマークは長いことGoogleブックマークを使っている。最近ははてブを使うことも増えたけど、こちらは人に見せても問題ないものしか基本入れていない。昨日そのブックマークを久々に遡ってみたのだけど、リンク切れがかなり多くなったなと時代の流れを感じた（10年前がつい最近のよう）。ちょうど自分が修士課程で人生行き詰まっていた頃に読んだ有名なブログで「修士論文の代わりに退学願を提出してきた」というエントリがあるのだけど&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;、そのサイトもHugoでリニューアルされていたりして。当時このエントリを読んでほっとしつつ、読んだ2年後に自分も同じように修士を中退することになったので、エントリが無事生き残っていてよかったなぁとしみじみした。&lt;/li&gt;
+  &lt;li&gt;昨夜の集中力がどこかに行ってしまったようで、さっぱり作業が進まないし気分がふさぐ。夜にRでグラフの修正作業をちょっとだけ手を付けたが、データの構造をいじらないといけないので、頭が回らないとどうにもならない。ああ、あと少しなんだけどなあ。&lt;/li&gt;
+  &lt;li&gt;早く寝て早朝に仕切り直すことにする。おやすみなさい。&lt;/li&gt;
+&lt;/ul&gt;
+
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;h5 id=&quot;2020-09-08&quot;&gt;2020-09-08&lt;/h5&gt;
@@ -82,7 +91,16 @@
   &lt;li&gt;今日はひさしぶりに活動的に過ごせた。ぼちぼち調子が戻っていくといいなあ。
 &lt;br /&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;div align=&quot;center&quot;&gt;&lt;img src=&quot;https://pixelfed.tokyo/storage/m/00e90cbc3f7fe44d7eae1391546f04d7f6339f86/80fba949709b3d19a566cf4e148f4612cdab1cdd/v3L3gW9IbBW1fxQDovRfXJ6w0pTnTjjTvF6McgnC.jpeg&quot; alt=&quot;キツネノマゴ&quot; width=&quot;500&quot; /&gt;&lt;/div&gt;</content><author><name></name></author><category term="diary" /><summary type="html">夏休み後半。秋来たる。</summary></entry><entry><title type="html">2020年8月 日々の記録</title><link href="http://localhost:4000/2020/08/31/monthly-diary.html" rel="alternate" type="text/html" title="2020年8月 日々の記録" /><published>2020-08-31T00:00:00+09:00</published><updated>2020-08-31T00:00:00+09:00</updated><id>http://localhost:4000/2020/08/31/monthly-diary</id><content type="html" xml:base="http://localhost:4000/2020/08/31/monthly-diary.html">&lt;p&gt;Blogページが長くなってしまうので、月ごとに日記エントリをまとめることにしてみた。今月から夏休み。&lt;/p&gt;
+&lt;div align=&quot;center&quot;&gt;&lt;img src=&quot;https://pixelfed.tokyo/storage/m/00e90cbc3f7fe44d7eae1391546f04d7f6339f86/80fba949709b3d19a566cf4e148f4612cdab1cdd/v3L3gW9IbBW1fxQDovRfXJ6w0pTnTjjTvF6McgnC.jpeg&quot; alt=&quot;キツネノマゴ&quot; width=&quot;500&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;検索すればすぐに出てくる有名なエントリなのでリンクは省く。先方のアクセス元にこのドメインが出るのも恥ずかしいので。 &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;</content><author><name></name></author><category term="diary" /><summary type="html">夏休み後半。秋来たる。</summary></entry><entry><title type="html">2020年8月 日々の記録</title><link href="http://localhost:4000/2020/08/31/monthly-diary.html" rel="alternate" type="text/html" title="2020年8月 日々の記録" /><published>2020-08-31T00:00:00+09:00</published><updated>2020-08-31T00:00:00+09:00</updated><id>http://localhost:4000/2020/08/31/monthly-diary</id><content type="html" xml:base="http://localhost:4000/2020/08/31/monthly-diary.html">&lt;p&gt;Blogページが長くなってしまうので、月ごとに日記エントリをまとめることにしてみた。今月から夏休み。&lt;/p&gt;
 
 &lt;!--more--&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
