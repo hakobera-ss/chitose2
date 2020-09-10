@@ -2,7 +2,7 @@
 title:  植物屋的に便利なブックマークレット集
 tags:
   - plant
-  - tek
+  - JavaScript
 
 ---
 
@@ -105,7 +105,7 @@ javascript:(function()%7Bx=document;y=window;if(x.selection)%20%7BQ=x.selection.
 
 #### Global Biodiversity Information Facility
 
-日本語では「地球規模生物多様性情報機構」。学名から分布図とか標本画像を調べるのに便利。世界中の大学・博物館から提供された情報がベースになっているが、前述のiNaturalistなど民間ベースのデータもここに集約される。また、分類体系は Catalogue of Life に基づいている。
+日本語では「地球規模生物多様性情報機構」。学名から分布図とか標本画像を調べるのに便利。世界中の大学・博物館から提供された情報がベースになっているが、前述のiNaturalistなど民間のデータもここに集約される。また、分類体系は Catalogue of Life に基づいている。
 
 ```javascript
 javascript:(function()%7Bx=document;y=window;if(x.selection)%20%7BQ=x.selection.createRange().text;%7D%20else%20if%20(y.getSelection)%20%7BQ=y.getSelection();%7D%20else%20if%20(x.getSelection)%20%7BQ=x.getSelection();%7D;m='https://www.gbif.org/ja/search?q='+encodeURIComponent(Q);y.open(m,'_blank','');%7D)();
