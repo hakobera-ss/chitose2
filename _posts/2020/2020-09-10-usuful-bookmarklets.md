@@ -73,7 +73,7 @@ javascript:(function()%7Bx=document;y=window;if(x.selection)%20%7BQ=x.selection.
 
 #### Plants of the World Online
 
-Kew Garden が運営していて、世界の維管束植物の情報を検索できる。日本産植物の情報は古いことも多いが、国際的な信頼は高い。なお、[DuckDuckGo](https://duckduckgo.com)では`plants!`コマンドで同様の検索ができる。
+Kew Garden が運営していて、世界の維管束植物の情報を検索できる。日本産植物の情報は古いことも多いが、国際的な信頼は高い。なお、[DuckDuckGo](https://duckduckgo.com)では`!plants`コマンドで同様の検索ができる。
 
 ```javascript
 javascript:(function()%7Bx=document;y=window;if(x.selection)%20%7BQ=x.selection.createRange().text;%7D%20else%20if%20(y.getSelection)%20%7BQ=y.getSelection();%7D%20else%20if%20(x.getSelection)%20%7BQ=x.getSelection();%7D;m='http://plantsoftheworldonline.org/?q='+encodeURIComponent(Q);y.open(m,'_blank','');%7D)();
