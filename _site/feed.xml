@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-09-14T01:46:06+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">chitose.org</title><entry><title type="html">2020年9月 日々の記録</title><link href="http://localhost:4000/2020/09/13/monthly-diary.html" rel="alternate" type="text/html" title="2020年9月 日々の記録" /><published>2020-09-13T00:00:00+09:00</published><updated>2020-09-13T00:00:00+09:00</updated><id>http://localhost:4000/2020/09/13/monthly-diary</id><content type="html" xml:base="http://localhost:4000/2020/09/13/monthly-diary.html">&lt;p&gt;夏休み後半。秋来たる。&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-09-14T02:14:50+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">chitose.org</title><entry><title type="html">2020年9月 日々の記録</title><link href="http://localhost:4000/2020/09/13/monthly-diary.html" rel="alternate" type="text/html" title="2020年9月 日々の記録" /><published>2020-09-13T00:00:00+09:00</published><updated>2020-09-13T00:00:00+09:00</updated><id>http://localhost:4000/2020/09/13/monthly-diary</id><content type="html" xml:base="http://localhost:4000/2020/09/13/monthly-diary.html">&lt;p&gt;夏休み後半。秋来たる。&lt;/p&gt;
 
 &lt;!--more--&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -8,6 +8,7 @@
 &lt;ul&gt;
   &lt;li&gt;9時半起床。日中はRでデータ整形のためのコーディング。&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;data.table&lt;/code&gt;を初めて使ったけど、確かにこれは処理が速い。ビッグデータ（という言葉は好きではないが、それはともかく）をいじるのには必須だなぁ。&lt;/li&gt;
   &lt;li&gt;RやPythonはデータ前処理のライブラリが充実しているけど、自分の欲しいライブラリがなかなか見つからないので実装を始めている。本業でも使えるのを言い訳にしているけど、これにばかり時間を割いてもまずいな。&lt;/li&gt;
+  &lt;li&gt;これは真逆も言えて、今趣味でやっていることにもっと本気を出して、少なくとも日本で第一人者になるくらいの何者かにならなければ、本業も趣味も何もかもが中途半端のまま学生生活を終えてしまうことを危惧している。情報技術を勉強して、運営ともっとがっつり組むとか、博士取得後のキャリアに活かせるようになればしめたものだ。入学して1年半、この熱い気概を見失ってはいないか。&lt;/li&gt;
   &lt;li&gt;今夜は少しは早く寝よう。おやすみなさい。&lt;/li&gt;
 &lt;/ul&gt;
 
