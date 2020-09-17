@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/hakobe
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://www.chitose.org
+  * I am hakobe (https://keybase.io/hakobe) on keybase.
+  * I have a public key with fingerprint 1166 23C1 15C9 CA76 287F  8902 5F3A 7D1D 9FFC 29FD
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01202b5c77c2a331bd0b30a9e4632e4e4466cc24874ed9b38fa59482445e74b675450a",
+      "fingerprint": "116623c115c9ca76287f89025f3a7d1d9ffc29fd",
+      "host": "keybase.io",
+      "key_id": "5f3a7d1d9ffc29fd",
+      "kid": "0101d09be6cbc5d6f7344948ee20065596d1f2d3abc7b6181faa754f3532e81436740a",
+      "uid": "a0e7f62427af7c17d92e470e11730519",
+      "username": "hakobe"
+    },
+    "service": {
+      "hostname": "www.chitose.org",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1600352175,
+  "expire_in": 157680000,
+  "prev": "1cfe866c0b53fb3bf265f2573c39a458f61415a3e07a6c54f0f5b820e3a8398f",
+  "seqno": 6,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMN3AnicbVJpTFRXGB0oaKEV2lBSFUHypKWklLx9GWFkUWmBMUrFVm0c3nLf8ISZ
+N848FjtQRFSWgNQai1Hi1mCxIDQYILFQOrZoDFWkkcVSayXRCYuSZgptigN9j+i/
+3j8397vnnHvOd7+fVrykC/Qx6UvCzz6L8fr0u07m60y83OaEOFnYD+mdUC5Y2kCe
+AByKKVcSID0EIyiMcgRPUTzKYhjCCTCHwSwDcBJDAQ5wnCR5HsVpCgcCw2G0yBIM
+TqM4TgAK50iKwAmYhWIhUbKagd1ml6yKKosgJIliPIIQPMOzFInSlEgzMEqIGEsJ
+iMCIIo8yoqASc2SHxlDNcawDxEmyWlMPpiV7/4N/4RtGBJjhAMlzPCGQIoXhuGoM
+ABSGSYJgSAERUQFjOZ7iSIRGRJZVvYoYocaiERwjKXzJd/6SHAsDSiRRHKVYkeIR
+SmDU8BQMEITCYAJhNKAD2K2sBajoHDZX5gBUEguptQKJB1pbtRzP7wsLC+P4HEmR
+1Tyy3aySbXZZkXk5TyMris2h18jKftsSGnCm5zomTrIKaiNVRgGwOyTZCukRFckr
+kiaMkDCMEShCEbEQKLJJdmCSNARBkTSsLu0dUKC1nxcBrX4czBGYyGGciJKEiBIU
+xmMMixO0SCI4QrAYgCmW5NW2wCLB0SgMMJbGGFqEtGT7rDKkJ1WbrFmVdEhmK6vk
+29XY11yf+Ol8AnXL/H21AdMFBrz2YuxqG4O9r7d6LNOQ9+0dRFxo3aHgA7N9r8zW
+YwdsNeMz1Wtedb47+VF7taX+1/vyQuYu5+KW7JCUhiYvNObqmTM6XeuRzOWx83ev
+xk7sqbqejkIPLu2J644o9bvSYPTfPNNr6x1zpD75YiS5ceSUMeGDmNMb3Fvi7nTa
++28PjI398cMJv5myr4aiu2xPhzauvPt3RLZX+e1mqacv5EnN7+czUhbRkDO/BBYl
+RDgi56FIupb1nK3piHJvn/IcdLkbBfvqddsfG1NKglIq1lqP+66LMlyZiQK92ZNH
+Epv7s6FN/w50ZMzLj8MNGV/3LoRJCzrl4vzkbHTYidqm0NT4wbqul6VrZ0YD2g49
+Gg+ZX/lPzabRz+o7uz5vvcWXdxbfL3/rYEvzGxxa2/FxVXqpZ8Oxm80ViXVzQ56d
+f7XcWHP+9NbM5Jjhyo2W6rTDqTd2H2sPMoxlFbReNH9aPLW8+eRlpyWppbJp2LE2
+wD/81PtZacF5u7tzu75j2svO/Rz2TYH7cMPlIx9e9b3Qw/Q1VRU9Wz3sfnDJcKv0
+vXjpzcFOy530h5Pr2xKMI0WR73h780ePB4ALyQbx+ra8HUcnxoMWyV33os/tHXAf
+3TlBda741rjX5U2KN1T+OXg7M2kqpHyZ/5dP86c75oq36UMrptOqKn31/cH7Vtld
+Wx/2rPq+KDcx65GzuNshZJcl/XjvP53MydE=
+=2Qb6
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/hakobe
+
+==================================================================
