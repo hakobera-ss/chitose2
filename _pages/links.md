@@ -39,3 +39,4 @@ title: Links
 - [はてなブックマーク](https://b.hatena.ne.jp/hakobe_tan/)（時系列の公開ブックマーク）
 - [読書メーター](https://bookmeter.com/users/969172)（読書記録）
 - [Amazonほしい物リスト](https://www.amazon.jp/hz/wishlist/ls/XLP4ERU63SRX?ref_=wl_share)
+- [Keybase](https://keybase.io/hakobe)
