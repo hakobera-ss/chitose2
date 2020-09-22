@@ -1,6 +1,16 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-09-22T04:57:46+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">chitose.org</title><entry><title type="html">2020年9月 日々の記録</title><link href="http://localhost:4000/2020/09/21/monthly-diary.html" rel="alternate" type="text/html" title="2020年9月 日々の記録" /><published>2020-09-21T00:00:00+09:00</published><updated>2020-09-21T00:00:00+09:00</updated><id>http://localhost:4000/2020/09/21/monthly-diary</id><content type="html" xml:base="http://localhost:4000/2020/09/21/monthly-diary.html">&lt;p&gt;夏休み後半。秋来たる。&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-09-23T04:56:44+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">chitose.org</title><entry><title type="html">2020年9月 日々の記録</title><link href="http://localhost:4000/2020/09/22/monthly-diary.html" rel="alternate" type="text/html" title="2020年9月 日々の記録" /><published>2020-09-22T00:00:00+09:00</published><updated>2020-09-22T00:00:00+09:00</updated><id>http://localhost:4000/2020/09/22/monthly-diary</id><content type="html" xml:base="http://localhost:4000/2020/09/22/monthly-diary.html">&lt;p&gt;夏休み後半。秋来たる。&lt;/p&gt;
 
 &lt;!--more--&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;2020-09-22&quot;&gt;2020-09-22&lt;/h5&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;11時半起床。今日は昨日より動悸がつらい。夜中になったら多少ましになったが、ちょっと心配になるレベル。&lt;/li&gt;
+  &lt;li&gt;今日はなぜかめったに連絡のない友人からの電話やらメールやらがよく届く。学部のときの親友氏がこの2,3年取り組んでた論文&lt;sup id=&quot;fnref:2&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;が最近acceptされたとの知らせが届いて、近々オンライン飲みをする約束となった。今も昔もずっと同じ学問を学んで苦楽を共有してきて、自分が植物を研究対象に選ぶきっかけを与えてくれた友人なので、本当に我が事のように嬉しいし励みになる。久しぶりに良い知らせを聞けてよかった。自分も負けずに良い研究をしないといけませぬな。&lt;/li&gt;
+  &lt;li&gt;夜、職場の同期から電話を受けた。自分の後任の様子とか、復職後に想定される異動先の様子とか、炎上してる部署の噂とか（自分が戻る頃が一番ヒートアップしてそうな時期だし、そっちに異動になる可能性もあるけどどうしようね！？などと）いろいろ聞いたが、まぁどこも大変そうである。今もなんだかんだで同期とは月1くらいで誰かしらと連絡を取れていて、仲が続いているのはとても有難いこと。あと1年半後にちゃんと仕事している様子がやっぱり想像つかないけど。&lt;/li&gt;
+&lt;/ul&gt;
+
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;h5 id=&quot;2020-09-21&quot;&gt;2020-09-21&lt;/h5&gt;
@@ -128,7 +138,7 @@
 
 &lt;ul&gt;
   &lt;li&gt;10時起床。4時間しか眠れてないが、寝起きは良い。&lt;/li&gt;
-  &lt;li&gt;高校生の頃から現在まで、非公開のオンラインブックマークは長いことGoogleブックマークを使っている。最近ははてブを使うことも増えたけど、こちらは人に見せても問題ないものしか基本入れていない。昨日そのブックマークを久々に遡ってみたのだけど、リンク切れがかなり多くなったなと時代の流れを感じた（10年前がつい最近のよう）。ちょうど自分が修士課程で人生行き詰まっていた頃に読んだ有名なブログで「修士論文の代わりに退学願を提出してきた」というエントリがあるのだけど&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;、そのサイトもHugoでリニューアルされていたりして。当時このエントリを読んでほっとしつつ、読んだ2年後に自分も同じように修士を中退することになったので、記事が無事生き残っていてよかったなぁとしみじみした。&lt;/li&gt;
+  &lt;li&gt;高校生の頃から現在まで、非公開のオンラインブックマークは長いことGoogleブックマークを使っている。最近ははてブを使うことも増えたけど、こちらは人に見せても問題ないものしか基本入れていない。昨日そのブックマークを久々に遡ってみたのだけど、リンク切れがかなり多くなったなと時代の流れを感じた（10年前がつい最近のよう）。ちょうど自分が修士課程で人生行き詰まっていた頃に読んだ有名なブログで「修士論文の代わりに退学願を提出してきた」というエントリがあるのだけど&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;、そのサイトもHugoでリニューアルされていたりして。当時このエントリを読んでほっとしつつ、読んだ2年後に自分も同じように修士を中退することになったので、記事が無事生き残っていてよかったなぁとしみじみした。&lt;/li&gt;
   &lt;li&gt;昨夜の集中力がどこかに行ってしまったようで、さっぱり作業が進まないし気分がふさぐ。夜にRでグラフの修正作業をちょっとだけ手を付けたが、データの構造をいじらないといけないので、頭が回らないとどうにもならない。ああ、あと少しなんだけどなあ。&lt;/li&gt;
   &lt;li&gt;早く寝て早朝に仕切り直すことにする。おやすみなさい。&lt;/li&gt;
 &lt;/ul&gt;
@@ -219,6 +229,9 @@
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 &lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
   &lt;ol&gt;
+    &lt;li id=&quot;fn:2&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;当然、この研究のデータ取りにも一度だけ手伝わされたので（遊びに行ったはずが…。まあ楽しかったのでヨシ）、論文に製版されたグラフを見ると感慨深いものである。 &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
     &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
       &lt;p&gt;検索すればすぐに出てくる有名なエントリなのでリンクは省く。先方のアクセス元にこのドメインが出るのも恥ずかしいので。 &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
