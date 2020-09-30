@@ -111,6 +111,23 @@ ResearchGate「Your account is now deleted.」
 
 <br>
 
+---
+
+## Fig.10 研究室の後輩とフットサル( ⁎˃ᴗ˂⁎)
+
+<br>
+
+<div align="center"><img src="https://i.gyazo.com/68410c36d6503b73a0d2432fff561299.png" alt="fig.1" title="fig.10" style="zoom:30%;" /></div>
+
+#### 設定
+
+- 研究室の後輩からフットサルに誘われたよ！ たまには運動しないとね！
+- （人数合わせだろ…）って思ったそこの君、ちょっと表に出なさい。
+- 髪も伸びたから、気分転換に染めてみたよ。
+- フットサルをしている間に日本学術振興会から通知が来ていることに、彼女はまだ知らない。
+
+<br>
+
 To Be Continued...
 
 ---
