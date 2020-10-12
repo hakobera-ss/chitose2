@@ -16,6 +16,11 @@ tags:
 - 午後から某所に出かけて共同研究の打合せ。と言っても、ほとんど趣味の延長線上のものなので、自分の好きなことを真っ昼間からこんなに語っていて大丈夫なのだろうかと心配になる。
 - そんなこんなで、帰宅してから目の前の現実と向き合っていたら、また憂鬱になってきた。もともと秋から冬に向かって気分が落ち込んでくる傾向があるから、ここ最近はそれ以外の様々な些細な出来事でも気分が落ちたり不安定になったりしている。自分と静かに向き合うために、またしばらくSNS絶ちしたほうがよいのかもしれない。
 - とりあえず薬多めにして早寝することにする。おやすみなさい。
+- 写真は今日の出掛けた先の道端で。夏の名残り。
+
+<div align="center">
+<iframe src="https://pixelfed.tokyo/p/hakobe/221300518474092544/embed?caption=true&likes=false&layout=full" class="pixelfed__embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script async defer src="https://pixelfed.tokyo/embed.js"></script>
+</div>
 
 <br>
 
