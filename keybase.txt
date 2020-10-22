@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/hakobe
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://www.chitose.org
+  * I am hakobe (https://keybase.io/hakobe) on keybase.
+  * I have a public key ASArXHfCozG9CzCp5GMuTkRmzCSHTtmzj6WUgkRedLZ1RQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01202b5c77c2a331bd0b30a9e4632e4e4466cc24874ed9b38fa59482445e74b675450a",
+      "host": "keybase.io",
+      "kid": "01202b5c77c2a331bd0b30a9e4632e4e4466cc24874ed9b38fa59482445e74b675450a",
+      "uid": "a0e7f62427af7c17d92e470e11730519",
+      "username": "hakobe"
+    },
+    "merkle_root": {
+      "ctime": 1603376470,
+      "hash": "30c143aa67b4ebd4da955afefbaf93cadfab7da37ee800c29306117baecceffd78120b9ffb41c8675c074aa3d78f235342b761a80300067c464499d14a540296",
+      "hash_meta": "62d29cb7b8ae1248d4d8fee667a3d2201db51b291189c9ae071774142e6e01e7",
+      "seqno": 17898831
+    },
+    "service": {
+      "entropy": "5+JUKxKlxb3g06sGruV1NZG8",
+      "hostname": "www.chitose.org",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.5.0"
+  },
+  "ctime": 1603376503,
+  "expire_in": 504576000,
+  "prev": "67b261dc752baa686462363c8772e71db3487c4598f7dd68090ec3503a6fab5d",
+  "seqno": 28,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgK1x3wqMxvQswqeRjLk5EZswkh07Zs4+llIJEXnS2dUUKp3BheWxvYWTESpcCHMQgZ7Jh3HUrqmhkYjY8h3LnHbNIfEWY991oCQ7DUDpvq13EIPEkQeCRHCQEteFKZOkqZ/c3lVFK6i5y2GtGuPPZsoVzAgHCo3NpZ8RAlrikc3fS7A75MX/fRdeNdTLEacCiLQf5G+IwMGYp/MNh5kZPKCODfjyG4g4UbpUO5ov7uzoFsqidZxaBTcNhB6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEICbkmPP/y4gNHEEjM8pES5zSjtFL2JSvB7BuaI7wWTk5o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/hakobe
+
+==================================================================
