@@ -1,12 +1,27 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-11-03T22:46:53+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">chitose.org</title><entry><title type="html">2020年11月 日々の記録</title><link href="http://localhost:4000/2020/11/03/monthly-diary.html" rel="alternate" type="text/html" title="2020年11月 日々の記録" /><published>2020-11-03T00:00:00+09:00</published><updated>2020-11-03T00:00:00+09:00</updated><id>http://localhost:4000/2020/11/03/monthly-diary</id><content type="html" xml:base="http://localhost:4000/2020/11/03/monthly-diary.html">&lt;p&gt;晩秋、慌ただしく師走が近づいてくる。&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-11-05T05:36:11+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">chitose.org</title><entry><title type="html">2020年11月 日々の記録</title><link href="http://localhost:4000/2020/11/04/monthly-diary.html" rel="alternate" type="text/html" title="2020年11月 日々の記録" /><published>2020-11-04T00:00:00+09:00</published><updated>2020-11-04T00:00:00+09:00</updated><id>http://localhost:4000/2020/11/04/monthly-diary</id><content type="html" xml:base="http://localhost:4000/2020/11/04/monthly-diary.html">&lt;p&gt;晩秋、慌ただしく師走が近づいてくる。&lt;/p&gt;
 
 &lt;!--more--&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;2020-11-04&quot;&gt;2020-11-04&lt;/h5&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;昨夜寝る直前にアイスを食べたくなって、そのまま寝落ちしてしまったらしい。明け方に食べかけのアイスが転がっていて、またやらかしてしまった。&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;今日は職場に出かけて人事関係の面談だったので、日中はばたばたしていた。ひととおりの近況報告の後、復職後の配属希望とか、先々どういう仕事をしたいかとか色々と聞かれたりなど。今大学でやっていることをそのまま仕事で続けられるわけではないから、何が知識として足りないか、うまいことして研究を続ける術がないかよくよく策を練っておかないといけない。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;私が普段お世話になっているMastodonサーバでのここしばらくの出来事に関連して、もしかしたら、自分がどう感じて行動しているのか気になる方もいるかもしれないので、この機会に一言述べておこうと思います。結論から言うと、「これからも変わらずここにいます」。&lt;/li&gt;
+  &lt;li&gt;SNSにしろ現実世界にしろコミュニティには人間関係はつきものですが、自分はどうにも八方美人的な振る舞いをしがちで、それが自らの発言の自由さを奪ってしまったことも度々ありました。なので今はそうならないように、好きなことは好きと言うし、意見が合わないなと思えば距離を適度な期間だけおいて、しばらくしたら何もなかったかのように戻ります。この1,2年は、そういう方針でネット上の人間関係は、（距離のとり方に失敗したなと反省していることもありますが）おおむね自分なりにうまく付き合えてきたつもりです。実際、累計トゥート数はこれまで使ってきたSNSアカウントとしては圧倒的に多いのです。&lt;/li&gt;
+  &lt;li&gt;こういう行動は人として100点満点といえる振る舞い方ではないのでしょうし、のらりくらりと言われればそうかもしれませんが、八方美人となって自分も周りも苦しむよりはましだと考えています。これまでいろんな人が言ってきた言葉ですが、ネットでも現実でも、所属するコミュニティは多ければ多いほど人は精神的に安定するものです。かくいう自分も、Fediverseだけでもいくつかのアカウントを所有して、その時々で使い分けています。これを振り返ると、自分という存在そのものを複数のアカウントに分散させることが、安寧なSNS生活をもたらすのかもしれません。これについては、自分自身のサーバを持ちたいという構想もあり（構築途中でコケて作業を放置中）、どういうアカウント運用が一番自分に合っているか、これからもきっと試行錯誤を続けていくのでしょう。&lt;/li&gt;
+  &lt;li&gt;最後になりましたが、現在SNSにてお付き合いいただいている方々、各サーバーの管理者の方々みなさまに改めて感謝を。私は私自身の立場と視点で、コミュニティの変化を見守っていきたいと考えています。また、最近はせっかくFediverseにいるのですし、自分のメインアカウントの周りの方々にこだわらずに素敵な方だなぁと思った人は自分からフォローに行こうと思っています。一言のつもりが随分長くなってしまったし、なんか一月早いアドベントカレンダーめいた文章になってしまいましたが、今後とも何卒よろしゅう…ということで、締めたいと思います。これからも、平穏ほのぼのなSNSライフを。&lt;/li&gt;
+&lt;/ul&gt;
+
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;h5 id=&quot;2020-11-03&quot;&gt;2020-11-03&lt;/h5&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;昨日から寝ていない。実家に帰ってきているのだが、やっぱり一人でいるときと比べると生活のペースが乱れる。せめてもの抵抗として早寝早起きになってしまう。&lt;/li&gt;
+  &lt;li&gt;昨日から寝ていない。実家に帰ってきているのだが、やっぱり一人でいるときと比べると生活のペースが乱れる。せめてもの抵抗としてと早寝早起きになってしまう。&lt;/li&gt;
   &lt;li&gt;研究関係のメールを書いたり論文書いたりしていたが、取り立てて進んでいない…。あとは趣味関係でメールの返事を保留にしている案件があるのだけど（ネガティブな理由により）、それにしても何もしていない。&lt;/li&gt;
   &lt;li&gt;明日は職場に行ってくる。研究の進捗とか成果とか聞かれるのが嫌だなあ。おやすみ。&lt;/li&gt;
 &lt;/ul&gt;
