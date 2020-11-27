@@ -1,6 +1,17 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-11-25T02:39:12+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">chitose.org</title><entry><title type="html">2020年11月 日々の記録</title><link href="http://localhost:4000/2020/11/24/monthly-diary.html" rel="alternate" type="text/html" title="2020年11月 日々の記録" /><published>2020-11-24T00:00:00+09:00</published><updated>2020-11-24T00:00:00+09:00</updated><id>http://localhost:4000/2020/11/24/monthly-diary</id><content type="html" xml:base="http://localhost:4000/2020/11/24/monthly-diary.html">&lt;p&gt;晩秋、慌ただしく師走が近づいてくる。&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-11-28T02:38:50+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">chitose.org</title><entry><title type="html">2020年11月 日々の記録</title><link href="http://localhost:4000/2020/11/27/monthly-diary.html" rel="alternate" type="text/html" title="2020年11月 日々の記録" /><published>2020-11-27T00:00:00+09:00</published><updated>2020-11-27T00:00:00+09:00</updated><id>http://localhost:4000/2020/11/27/monthly-diary</id><content type="html" xml:base="http://localhost:4000/2020/11/27/monthly-diary.html">&lt;p&gt;晩秋、慌ただしく師走が近づいてくる。&lt;/p&gt;
 
 &lt;!--more--&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;2020-11-27&quot;&gt;2020-11-27&lt;/h5&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;最近、薬を強めにしてもしっかり寝付けない。今朝は夢の中でも論文の進捗を叱られ、それで目が覚めて原稿に向かうも中々進まず、指導教員とのディスカッションでも同じような会話が続くという結構しんどい状況が続いている。&lt;/li&gt;
+  &lt;li&gt;論文を文章が下手でも完全でなくても毎日コンスタントに書き続ける習慣をどう身につけるか、相変わらず考えている。そういうわけで、中身がなくてもここは更新するのだ。&lt;/li&gt;
+  &lt;li&gt;今日もSSL証明書まわりに手を加えてみたが、解決に至らず。&lt;/li&gt;
+  &lt;li&gt;気持ちを切り替えるには、しっかり寝るのが一番だというのは、この1年半ほど過ごしてきて一番実感してきたことである。ということで、夕方には何もかも寝て、夜中から作業再開としたい。&lt;/li&gt;
+&lt;/ul&gt;
+
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;h5 id=&quot;2020-11-24&quot;&gt;2020-11-24&lt;/h5&gt;
