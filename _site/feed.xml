@@ -1,4 +1,16 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-11-28T18:09:34+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">chitose.org</title><entry><title type="html">2020年11月 日々の記録</title><link href="http://localhost:4000/2020/11/28/monthly-diary.html" rel="alternate" type="text/html" title="2020年11月 日々の記録" /><published>2020-11-28T00:00:00+09:00</published><updated>2020-11-28T00:00:00+09:00</updated><id>http://localhost:4000/2020/11/28/monthly-diary</id><content type="html" xml:base="http://localhost:4000/2020/11/28/monthly-diary.html">&lt;p&gt;晩秋、慌ただしく師走が近づいてくる。&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-11-29T19:36:52+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">chitose.org</title><entry><title type="html">29 XI 2020</title><link href="http://localhost:4000/2020/11/29/20201129.html" rel="alternate" type="text/html" title="29 XI 2020" /><published>2020-11-29T00:00:00+09:00</published><updated>2020-11-29T00:00:00+09:00</updated><id>http://localhost:4000/2020/11/29/20201129</id><content type="html" xml:base="http://localhost:4000/2020/11/29/20201129.html">&lt;!--more--&gt;
+
+&lt;h2 id=&quot;ブログの構成変更&quot;&gt;ブログの構成変更&lt;/h2&gt;
+
+&lt;p&gt;ブログの構成をJekyll + GitHub Pagesから、Gatsby + Vercelに変更しました。Jekyllをメインで使うのは、テーマの開発が2,3年前に止まっていたりと、技術的にそろそろ変えなければと思っていたのでちょうどよい機会でした。移行が完全に終わるまで、しばらくは2か所（ https://www.chitose.org/list/posts.html と https://blog.chitose.org ）に同じ記事を載せていくようにするつもりです。新しい方のサイトは、設定をまだまだいじらないといけないので動作が不安定です（RSSとかもいちおう取得できるようにしているけど）。移行完了したら、またお知らせします。&lt;/p&gt;
+
+&lt;p&gt;それから、ちょうどよい機会だったので、文章の書き方を常体から敬体に変え、投稿も日付別に作成することにしました。それから、箇条書きだと日記を書くのが簡単なのだけど、パラグラフの構成を考える練習もしたいのもあって、もう少しきちんと文章らしく書くことにします。趣味でやっていることなので、無理のない範囲で……ですが。&lt;/p&gt;
+
+&lt;h2 id=&quot;冷え込んだ週末&quot;&gt;冷え込んだ週末&lt;/h2&gt;
+
+&lt;p&gt;昨日、一昨日は、夜明けには作業を開始して夕方には寝るようにしていたのですが、今日は日中の眠けがひどく（無理に夜中から起きていたせいかもしれない）けっきょく夕方まで寝てしまいました。明日は出かける予定が入っているので、今夜のうちに進捗を生んでおきたいところです。&lt;/p&gt;
+
+&lt;p&gt;最近Twitterで大学院生の研究アカウントをいくつかフォローしたせいなのか、それとも時期柄なのか、院生の生活心得みたいなツイートをよく見かけます。自戒というかがんばらねばというか、論文を書き上げないことには先には進めないのですよね。これはどこに行っても逃げられない現実なわけで。&lt;/p&gt;</content><author><name></name></author><category term="tek" /><category term="Gatsby" /><category term="diary" /><summary type="html"></summary></entry><entry><title type="html">2020年11月 日々の記録</title><link href="http://localhost:4000/2020/11/28/monthly-diary.html" rel="alternate" type="text/html" title="2020年11月 日々の記録" /><published>2020-11-28T00:00:00+09:00</published><updated>2020-11-28T00:00:00+09:00</updated><id>http://localhost:4000/2020/11/28/monthly-diary</id><content type="html" xml:base="http://localhost:4000/2020/11/28/monthly-diary.html">&lt;p&gt;晩秋、慌ただしく師走が近づいてくる。&lt;/p&gt;
 
 &lt;!--more--&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -211,7 +223,19 @@
   &lt;li&gt;二度寝して14時起床。11月が始まった。これから年末まではあっという間なので時間を意識して動かねば。&lt;/li&gt;
   &lt;li&gt;といいつつ、買い出しに出る気力が出ずに夕方からまた寝込んでしまった。日付が変わってから目が覚めたが、週末中に済ませたいタスクが何も片付いておらず大変まずい。せめてバイトの月報だけは作っておかねばならないが…。&lt;/li&gt;
   &lt;li&gt;世間は明日を休みにして4連休にする人もいるようだが、こちとら毎日毎時間常にいろいろなものに追われているので連休どころではない。もうだめだ。寝よう。&lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><category term="diary" /><summary type="html">晩秋、慌ただしく師走が近づいてくる。</summary></entry><entry><title type="html">2020年10月 日々の記録</title><link href="http://localhost:4000/2020/10/31/monthly-diary.html" rel="alternate" type="text/html" title="2020年10月 日々の記録" /><published>2020-10-31T00:00:00+09:00</published><updated>2020-10-31T00:00:00+09:00</updated><id>http://localhost:4000/2020/10/31/monthly-diary</id><content type="html" xml:base="http://localhost:4000/2020/10/31/monthly-diary.html">&lt;p&gt;秋深まり、下半期が始まる。&lt;/p&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="diary" /><summary type="html">晩秋、慌ただしく師走が近づいてくる。</summary></entry><entry><title type="html">朝顔と祖母と、科学に初めて触れた日。</title><link href="http://localhost:4000/2020/10/31/my-first-question.html" rel="alternate" type="text/html" title="朝顔と祖母と、科学に初めて触れた日。" /><published>2020-10-31T00:00:00+09:00</published><updated>2020-10-31T00:00:00+09:00</updated><id>http://localhost:4000/2020/10/31/my-first-question</id><content type="html" xml:base="http://localhost:4000/2020/10/31/my-first-question.html">&lt;p&gt;幼い頃のちょっとした思い出と、自身の研究への向き合い方にまつわるちょっとしたお話。&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;自分が生まれる前から、私の祖母は庭で朝顔を育てるのを毎年の日課としていた。自分もときどき一緒に種まき、間引き・支柱立てやら、夏場の水やりも手伝ったりしていた。&lt;/p&gt;
+
+&lt;p&gt;ある年の夏、そのときはまだ幼稚園児だったと思うが、朝顔の花を見ながら何かを祖母から教わって、それがきっかけになって芋づる式に気になったことを質問攻めにしたことがあった。今となっては何を話したのかさっぱり思い出せないが（品種によって花の色がなんで違うか？とか、そんな話題だったような気もするけど…）、あまりにしつこく聞いたので「おまえは理科が好きになるだろうなぁ」と言ってそれきり答えてもらえなくなったことがあった。それが”理科”という言葉を初めて聞いた瞬間だった。自分が気になっていることを真正面から教えてくれる世界がそこにあるのだ！という期待感がものすごかったから、この瞬間は今でも強烈に覚えている（質問をスルーされたのは悲しかったけども）。まぁ兎にも角にも、小学校に入ったら理科というものがあるのだ！と。&lt;/p&gt;
+
+&lt;p&gt;そして小・中・高・大学・大学院と進み、確かに科学というものは自分が気になって気になって仕方がない疑問を答えてくれる世界であることを知ったのだが、それと同時に「なんで（どうして）〜なの？」と無邪気に問うことが次第にできなくなってきている自分がいる。&lt;/p&gt;
+
+&lt;p&gt;それは、既知の知見があまりにも広く深くて、自分の疑問などきっとすでに解決されているであろうという諦めであったり、それ以上に、研究者として本当に問う価値のある疑問を生み出せているのかという焦りがあるからだと思う。前者は既往研究をくまなく調べ尽くせばよいのだが、後者は考えれば考えるほど既往研究に縛られてしまって、自由でまっさらな疑問から遠のいてしまっていく気がしている。何日も机にずっと向かって原稿を書いているときなどは特に。&lt;/p&gt;
+
+&lt;p&gt;今夜みたいに眠れない夜は、子供の頃みたいに何も知識も持たず「なんで（どうして）〜なんだろう？」と疑問ばかりだった感覚を取り戻せたらと、よく思い出す。新しい知識を知ることは楽しいけど、知れば知るほど無邪気に生み出せたはずの疑問が枯れていく。もし過去に遡れるのなら、幼稚園児だった自分に「いいぞいいぞその調子だ！ 研究という世界にたどり着くまでは、理解者も話し相手も誰もいないけど、その気持ちだけは絶対に忘れないでいてくれ！」と言い聞かせたいものである。&lt;/p&gt;</content><author><name></name></author><category term="thinking" /><category term="research" /><summary type="html">幼い頃のちょっとした思い出と、自身の研究への向き合い方にまつわるちょっとしたお話。</summary></entry><entry><title type="html">2020年10月 日々の記録</title><link href="http://localhost:4000/2020/10/31/monthly-diary.html" rel="alternate" type="text/html" title="2020年10月 日々の記録" /><published>2020-10-31T00:00:00+09:00</published><updated>2020-10-31T00:00:00+09:00</updated><id>http://localhost:4000/2020/10/31/monthly-diary</id><content type="html" xml:base="http://localhost:4000/2020/10/31/monthly-diary.html">&lt;p&gt;秋深まり、下半期が始まる。&lt;/p&gt;
 
 &lt;!--more--&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -515,19 +539,7 @@
   &lt;li&gt;健康状態は先週までよりかなり回復してきている。ご飯も食べられるし、睡眠もしっかり取れている。&lt;/li&gt;
   &lt;li&gt;この日記も、3ヶ月めに入った。連続日数で言うとまだ1ヶ月とちょっとだけど、それでも自分史上もっとも続いている日記になった。画期的！ これからも、あまり人目を意識せずに（でも読んでいてくれる人がいてくれたら嬉しいな…という気持ちで）続けていきたい。自分の日記のスタイルは、昔Twitterでつながっていたものの、ろくに交流しないまま当方の垢を放置してしまっている&lt;a href=&quot;https://twitter.com/necocen&quot;&gt;κねこせん&lt;/a&gt;さんの日記の影響を強く受けている。自分とおそらく同年代で境遇も似ていて、紆余曲折しながらもやりたいことを諦めずに淡々と綴る日記が大好きで、今も毎日更新されるのを楽しみにしている。氏はもう10年以上、毎日ブログを更新し続けている。自分もそれくらい続けられたら良いなあ。&lt;/li&gt;
   &lt;li&gt;来週から大学の予定と、ラボのゼミや進捗報告と、調査地関係のおしごとが立て続けに入ってきた。今のうちにまったりしながらもやることやらなきゃね。おやすみなさい。&lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><category term="diary" /><summary type="html">秋深まり、下半期が始まる。</summary></entry><entry><title type="html">朝顔と祖母と、科学に初めて触れた日。</title><link href="http://localhost:4000/2020/10/31/my-first-question.html" rel="alternate" type="text/html" title="朝顔と祖母と、科学に初めて触れた日。" /><published>2020-10-31T00:00:00+09:00</published><updated>2020-10-31T00:00:00+09:00</updated><id>http://localhost:4000/2020/10/31/my-first-question</id><content type="html" xml:base="http://localhost:4000/2020/10/31/my-first-question.html">&lt;p&gt;幼い頃のちょっとした思い出と、自身の研究への向き合い方にまつわるちょっとしたお話。&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;p&gt;自分が生まれる前から、私の祖母は庭で朝顔を育てるのを毎年の日課としていた。自分もときどき一緒に種まき、間引き・支柱立てやら、夏場の水やりも手伝ったりしていた。&lt;/p&gt;
-
-&lt;p&gt;ある年の夏、そのときはまだ幼稚園児だったと思うが、朝顔の花を見ながら何かを祖母から教わって、それがきっかけになって芋づる式に気になったことを質問攻めにしたことがあった。今となっては何を話したのかさっぱり思い出せないが（品種によって花の色がなんで違うか？とか、そんな話題だったような気もするけど…）、あまりにしつこく聞いたので「おまえは理科が好きになるだろうなぁ」と言ってそれきり答えてもらえなくなったことがあった。それが”理科”という言葉を初めて聞いた瞬間だった。自分が気になっていることを真正面から教えてくれる世界がそこにあるのだ！という期待感がものすごかったから、この瞬間は今でも強烈に覚えている（質問をスルーされたのは悲しかったけども）。まぁ兎にも角にも、小学校に入ったら理科というものがあるのだ！と。&lt;/p&gt;
-
-&lt;p&gt;そして小・中・高・大学・大学院と進み、確かに科学というものは自分が気になって気になって仕方がない疑問を答えてくれる世界であることを知ったのだが、それと同時に「なんで（どうして）〜なの？」と無邪気に問うことが次第にできなくなってきている自分がいる。&lt;/p&gt;
-
-&lt;p&gt;それは、既知の知見があまりにも広く深くて、自分の疑問などきっとすでに解決されているであろうという諦めであったり、それ以上に、研究者として本当に問う価値のある疑問を生み出せているのかという焦りがあるからだと思う。前者は既往研究をくまなく調べ尽くせばよいのだが、後者は考えれば考えるほど既往研究に縛られてしまって、自由でまっさらな疑問から遠のいてしまっていく気がしている。何日も机にずっと向かって原稿を書いているときなどは特に。&lt;/p&gt;
-
-&lt;p&gt;今夜みたいに眠れない夜は、子供の頃みたいに何も知識も持たず「なんで（どうして）〜なんだろう？」と疑問ばかりだった感覚を取り戻せたらと、よく思い出す。新しい知識を知ることは楽しいけど、知れば知るほど無邪気に生み出せたはずの疑問が枯れていく。もし過去に遡れるのなら、幼稚園児だった自分に「いいぞいいぞその調子だ！ 研究という世界にたどり着くまでは、理解者も話し相手も誰もいないけど、その気持ちだけは絶対に忘れないでいてくれ！」と言い聞かせたいものである。&lt;/p&gt;</content><author><name></name></author><category term="thinking" /><category term="research" /><summary type="html">幼い頃のちょっとした思い出と、自身の研究への向き合い方にまつわるちょっとしたお話。</summary></entry><entry><title type="html">2020年9月 日々の記録</title><link href="http://localhost:4000/2020/09/30/monthly-diary.html" rel="alternate" type="text/html" title="2020年9月 日々の記録" /><published>2020-09-30T00:00:00+09:00</published><updated>2020-09-30T00:00:00+09:00</updated><id>http://localhost:4000/2020/09/30/monthly-diary</id><content type="html" xml:base="http://localhost:4000/2020/09/30/monthly-diary.html">&lt;p&gt;夏休み後半。秋来たる。&lt;/p&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="diary" /><summary type="html">秋深まり、下半期が始まる。</summary></entry><entry><title type="html">2020年9月 日々の記録</title><link href="http://localhost:4000/2020/09/30/monthly-diary.html" rel="alternate" type="text/html" title="2020年9月 日々の記録" /><published>2020-09-30T00:00:00+09:00</published><updated>2020-09-30T00:00:00+09:00</updated><id>http://localhost:4000/2020/09/30/monthly-diary</id><content type="html" xml:base="http://localhost:4000/2020/09/30/monthly-diary.html">&lt;p&gt;夏休み後半。秋来たる。&lt;/p&gt;
 
 &lt;!--more--&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -1131,61 +1143,4 @@
 
 &lt;p&gt;はてなブログのエントリの大部分と、「闇落ちさくらちゃん」シリーズをまとめることができたので、これでひとまずは完成です。&lt;/p&gt;
 
-&lt;p&gt;この2,3日ほど急にやる気が出て一気に作ってしまったけど、本当はこんなことしている場合じゃないのだよなぁ。論文が一向に進まない。。&lt;/p&gt;</content><author><name></name></author><category term="notice" /><summary type="html">はてなブログから、GitHub Pages &amp;amp; Jekyll &amp;amp; Friday Theme を使ったブログ兼ポートフォリオへと移行しました。古い記事はこちらにまとめて、はてなブログのエントリは削除しました。</summary></entry><entry><title type="html">Mendeleyを使った文献管理のTips</title><link href="http://localhost:4000/2020/05/26/mendeley-for-japanese.html" rel="alternate" type="text/html" title="Mendeleyを使った文献管理のTips" /><published>2020-05-26T00:00:00+09:00</published><updated>2020-05-26T00:00:00+09:00</updated><id>http://localhost:4000/2020/05/26/mendeley-for-japanese</id><content type="html" xml:base="http://localhost:4000/2020/05/26/mendeley-for-japanese.html">&lt;p&gt;Mendeleyは日本語文献の管理が苦手なので、ちょっとしたコツがいる。このエントリは随時加筆予定。&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;前提&quot;&gt;前提&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;日本語・英語両方の文献を読み、自らも日本語・英語両方の論文を書いている&lt;/li&gt;
-  &lt;li&gt;Mendeley Desktop を入れておく&lt;/li&gt;
-  &lt;li&gt;Mendeley の容量制限を回避するため（大学を出てからも使えるように）、 Preferences → Watched folders で、文献ファイルを Dropbox などのクラウドストレージ上のフォルダを指定する（以下、ここを「保存フォルダ」と呼ぶ）&lt;/li&gt;
-  &lt;li&gt;Preferences → File Organizer → Rename document files を有効にして適当に設定しておくと、PDFの管理が楽になる&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;英語論文の取り込み&quot;&gt;英語論文の取り込み&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;英語論文（しかもメジャーな雑誌）であればとても楽&lt;/li&gt;
-  &lt;li&gt;DLしたPDFを保存フォルダへ移動する。するとMendeleyが自動判別してテキトーなファイル名にrenameされる&lt;/li&gt;
-  &lt;li&gt;Mendeley Desktop で該当論文を開き Details を確認。DOIを入力して（PDFから既に取り込まれていることが多い）右側の検索ボタンから文献データを再検索させると、間違いのない情報に更新される（併せて、PDFファイル名も更新される）
-&lt;br /&gt;&lt;br /&gt;
-    &lt;div align=&quot;center&quot;&gt;&lt;img src=&quot;https://i.gyazo.com/ab7f4ee3fdfabc7b168f60eb3f6abbe7.png&quot; alt=&quot;search DOI&quot; width=&quot;400&quot; /&gt;&lt;/div&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;日本語論文の取り込み&quot;&gt;日本語論文の取り込み&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;基本的には英語論文と同じ流れで追加するが、&lt;a href=&quot;https://www.jstage.jst.go.jp/browse/-char/ja/&quot;&gt;J-STAGE&lt;/a&gt;が付与しているDOIはMendeleyで読み込むことができない（自分が試してきた限り）&lt;/li&gt;
-  &lt;li&gt;RISをDLして、 Mendeley Desktop → File → Import → RIS で先に文献情報だけつくっておく&lt;/li&gt;
-  &lt;li&gt;つくった文献情報に別途DLしたPDFを紐付けて保存する&lt;/li&gt;
-  &lt;li&gt;英語論文で引用したいとき（英文タイトル、著者、雑誌名）は、英語標記だけを入れた文献データを別途つくっておく
-&lt;br /&gt;&lt;br /&gt;
-    &lt;div align=&quot;center&quot;&gt;&lt;img src=&quot;https://i.gyazo.com/98281d123162beabf7503f8308820d1d.png&quot; alt=&quot;download RIS&quot; width=&quot;300&quot; /&gt;&lt;/div&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;書籍情報の取り込み&quot;&gt;書籍情報の取り込み&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;書籍全体を引用するのか、それとも特定の章だけ引用するのかで使い勝手が変わる。今後も改善の余地あり&lt;/li&gt;
-  &lt;li&gt;英語書籍全体を引用するなら、Googleスカラーの引用ボタンからbibtexなどを出力して読み込むのが手早いか？
-&lt;br /&gt;&lt;br /&gt;
-    &lt;div align=&quot;center&quot;&gt;&lt;img src=&quot;https://i.gyazo.com/57365392a8f09c5742b6f60112f0c245.png&quot; alt=&quot;import bibtex&quot; width=&quot;300&quot; /&gt;&lt;/div&gt;
-    &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;日本語書籍であれば、&lt;a href=&quot;https://ci.nii.ac.jp/books/&quot;&gt;CiNii 図書&lt;/a&gt;から「Mendeleyに書き出し」をするのが最も楽
-&lt;br /&gt;&lt;br /&gt;
-    &lt;div align=&quot;center&quot;&gt;&lt;img src=&quot;https://i.gyazo.com/b33f5be6271cd090ec463af5cb877ce1.png&quot; alt=&quot;Image from Gyazo&quot; width=&quot;300&quot; /&gt;&lt;/div&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><category term="Mendeley" /><category term="research" /><summary type="html">Mendeleyは日本語文献の管理が苦手なので、ちょっとしたコツがいる。このエントリは随時加筆予定。</summary></entry></feed>
+&lt;p&gt;この2,3日ほど急にやる気が出て一気に作ってしまったけど、本当はこんなことしている場合じゃないのだよなぁ。論文が一向に進まない。。&lt;/p&gt;</content><author><name></name></author><category term="notice" /><summary type="html">はてなブログから、GitHub Pages &amp;amp; Jekyll &amp;amp; Friday Theme を使ったブログ兼ポートフォリオへと移行しました。古い記事はこちらにまとめて、はてなブログのエントリは削除しました。</summary></entry></feed>
