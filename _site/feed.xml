@@ -1,4 +1,16 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-12-09T01:23:44+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">chitose.org</title><entry><title type="html">08 XII 2020</title><link href="http://localhost:4000/2020/12/08/20201208.html" rel="alternate" type="text/html" title="08 XII 2020" /><published>2020-12-08T00:00:00+09:00</published><updated>2020-12-08T00:00:00+09:00</updated><id>http://localhost:4000/2020/12/08/--20201208</id><content type="html" xml:base="http://localhost:4000/2020/12/08/20201208.html">&lt;!--more--&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-12-31T20:53:04+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">chitose.org</title><entry><title type="html">2020年の振り返り</title><link href="http://localhost:4000/2020/12/31/recollection2020.html" rel="alternate" type="text/html" title="2020年の振り返り" /><published>2020-12-31T00:00:00+09:00</published><updated>2020-12-31T00:00:00+09:00</updated><id>http://localhost:4000/2020/12/31/--recollection2020</id><content type="html" xml:base="http://localhost:4000/2020/12/31/recollection2020.html">&lt;p&gt;しばらくブログを更新しないうちに年の瀬を迎えてしまいました。&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;1週間ほど前にようやく1本めの論文を投稿して、一区切りがつきました。これだけは本当に最低限年内に終わらせたかったので、ちょっと安心して年を越せそう。&lt;/p&gt;
+
+&lt;p&gt;思えば、論文と名前のつく文章をしっかり自力で仕上げきるのは、本当に久しぶりなのです。自分が述べている事柄について、どこまでが既知でどこからが既知なのかをはっきりさせたり、一点も曖昧な言葉を使わずに説明したりするのは大変に骨が折れる（というか面倒くさい）もので、なんというか面倒臭さから逃げないことが大事なのでしょうね。&lt;/p&gt;
+
+&lt;p&gt;今年はひたすら論文執筆をしつつだらだらと過ごす1年だったような気がします。本当は野外調査をふんだんに進めたかったのだけど、コロナ禍で外出自粛が続き調査シーズンを逃してしまいました。博士課程に進学した一番大きな動機が「野外調査と論文執筆にまとまった時間をとりたい」ということだったのだけど、野外調査は叶うことなく3年を終わることになりそうです。来年も少しはできるとはいえ、D3の夏となるとD論をまとめることに注力するはずなので。&lt;/p&gt;
+
+&lt;p&gt;野外調査が十分にできなかった点を除けば、その他の生活はあまり変わらない日々でした。むしろ、自宅の研究環境を改善したりオンラインでの研究活動がメインになったことは自分にとっては過ごしやすいものだったので、差し引きではさほど大きくマイナスにはならなったと思います。&lt;/p&gt;
+
+&lt;p&gt;来年はいよいよ博論執筆の年なので、心身を健康に保ちながら、1本でも多くの業績が出せるように過ごしたいなと思います。&lt;/p&gt;</content><author><name></name></author><category term="diary" /><summary type="html">しばらくブログを更新しないうちに年の瀬を迎えてしまいました。</summary></entry><entry><title type="html">08 XII 2020</title><link href="http://localhost:4000/2020/12/08/20201208.html" rel="alternate" type="text/html" title="08 XII 2020" /><published>2020-12-08T00:00:00+09:00</published><updated>2020-12-08T00:00:00+09:00</updated><id>http://localhost:4000/2020/12/08/--20201208</id><content type="html" xml:base="http://localhost:4000/2020/12/08/20201208.html">&lt;!--more--&gt;
 
 &lt;h2 id=&quot;ひたすら論文執筆&quot;&gt;ひたすら論文執筆&lt;/h2&gt;
 
@@ -980,88 +992,4 @@
 &lt;p&gt;日本語では「地球規模生物多様性情報機構」。学名から分布図とか標本画像を調べるのに便利。世界中の大学・博物館から提供された情報がベースになっているが、前述のiNaturalistなど民間のデータもここに集約される。また、分類体系は Catalogue of Life に基づいている。&lt;/p&gt;
 
 &lt;div class=&quot;language-javascript highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nx&quot;&gt;javascript&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:(&lt;/span&gt;&lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;%&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;7&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;Bx&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;document&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;y&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;window&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;if&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;x&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;selection&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;%&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;20&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;%&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;7&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;BQ&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;x&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;selection&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;createRange&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;().&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;text&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;%&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;7&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;D&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;%&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;20&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;else&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;%&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;20&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;if&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;%&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;20&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;y&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;getSelection&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;%&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;20&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;%&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;7&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;BQ&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;y&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;getSelection&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;();&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;%&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;7&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;D&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;%&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;20&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;else&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;%&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;20&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;if&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;%&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;20&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;x&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;getSelection&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;%&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;20&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;%&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;7&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;BQ&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;x&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;getSelection&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;();&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;%&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;7&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;D&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;m&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;https://www.gbif.org/ja/search?q=&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;+&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;encodeURIComponent&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;Q&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;y&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;open&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;m&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;_blank&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;''&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;%&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;7&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;D&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)();&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name></name></author><category term="plant" /><category term="JavaScript" /><summary type="html">ワンクリックで植物の和名から学名を検索したかったので、ついでにいろいろつくってみた。</summary></entry><entry><title type="html">2020年8月 日々の記録</title><link href="http://localhost:4000/2020/08/31/monthly-diary.html" rel="alternate" type="text/html" title="2020年8月 日々の記録" /><published>2020-08-31T00:00:00+09:00</published><updated>2020-08-31T00:00:00+09:00</updated><id>http://localhost:4000/2020/08/31/monthly-diary</id><content type="html" xml:base="http://localhost:4000/2020/08/31/monthly-diary.html">&lt;p&gt;Blogページが長くなってしまうので、月ごとに日記エントリをまとめることにしてみた。今月から夏休み。&lt;/p&gt;
-
-&lt;!--more--&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;h5 id=&quot;2020-08-31&quot;&gt;2020-08-31&lt;/h5&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;10時起床。昼過ぎまでは家事を色々済ませた。午後は授業料減免申請の準備と、延滞していた学会の年会費の支払いなど。そのあとに今日こそは散歩に出ようと思っていたら、ものすごい雷雨でそれどころではなくなってしまった。&lt;/li&gt;
-  &lt;li&gt;YouTubeのおすすめで出てきた国道158号線（松本〜安房道路〜高山）の車載動画を見て、無性に遠出をしたくなった。野外調査は車で出掛ければ3密どころか誰とも会わないので最低限のマスク・手洗い・うがいだけ気にすればよいのだが、調査の下見に行くなどの外出に対してずっと心理的なハードルが高くなってしまっている。そろそろ精神的にも限界が来ているので、もっと気軽に出かけた方がいいのかもしれない。&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;h5 id=&quot;2020-08-30&quot;&gt;2020-08-30&lt;/h5&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;11時起床。今朝は眠りが浅くて、途中でやけに現実味のある夢をみた。指導教員と議論をしているはずなのに、何年か前に書いて職場に置いてきたはずの引継書を手元に持っていて、あれ！？と気がついたら目が覚めた。&lt;/li&gt;
-  &lt;li&gt;私は何事も時間をかけて緻密なものをつくる傾向があって、短時間で要領よく物事をこなすというのが得意ではない。仕事でもやはりそうで、7割の成果で仕事を終えることよりも、9割になるまで残業してでも進めるのを好んだ。ワーカホリックなのかもしれないが、仕事相手のことを思うとそうせざるを得なかったのだ（自分が手を抜いただけ先方が苦労して、それが自分に跳ね返ってくる）。休職前の職場では、途中までは上司も同じような考え方をしていて一緒に遅くまで残っていたのだが、途中で上司が異動して、残業するのは自分だけになり職場全体の仕事の質も次第に下がった。”いい仕事をしよう”という気概みたいなものが一気に失われて、自分は大学院に進学して環境と待遇を変えるしかないと決意する一因となった。送別会後の23時過ぎに職場に戻ったら上司も戻っていて、来年こんなことをしたいねとか話し合った日々が懐かしい。今どきの働き方改革と逆行するような生活だったけれど、自分の価値観は果たして古いのだろうか。もちろん私生活を犠牲にするのはどうかと思うけど、人手と時間の不足のために仕事に求められる質を（無意識か否かは問わず）蔑ろにしすぎる生活に耐えられなくなったのは確かだと思う。1年半経ってようやく言葉に出せるようになってきた。なんとなく思い出したので書き留めておく。&lt;/li&gt;
-  &lt;li&gt;夕方にこのサイトのトップページにちょっと手を加えた。文字だけで味気なかったので、Bootstrapのカルーセルを使って、昔撮った写真を表示するようにしてみた。少々苦戦したけど3時間ほどで実装できたのでデプロイしてある。&lt;/li&gt;
-  &lt;li&gt;早いもので8月も明日で終わり。&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;h5 id=&quot;2020-08-29&quot;&gt;2020-08-29&lt;/h5&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;8時起床。昨夜はDiscordに繋いだまま寝落ちしてしまったらしい。マイクだけは切っておいてよかった…。&lt;/li&gt;
-  &lt;li&gt;土曜日なので（といっても平日にちゃんと稼働できているわけではないが）、だらだらとブログをいじっていた。まずはブログページが長くなってしまっているのでページ分けをしたいのだけど、&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll-paginate&lt;/code&gt;がうまく入らない。別のテーマ、例えばよく使われている&lt;a href=&quot;https://github.com/mmistakes/minimal-mistakes/&quot;&gt;Minimal Mistakes&lt;/a&gt;を試してもよいのだけど、高機能過ぎて手に余るだろうから、今のテーマを改良する方向で進めていく。&lt;/li&gt;
-  &lt;li&gt;この手の調べ物をすると、同じような個人ブログをよく見かける。まったく見ず知らずの人の日常が書かれたものであっても、その人の考えが滲み出ている文章はやはり面白くて、（他人に読まれるかは別として）自分もそういうものを残したいなと思う。&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;h5 id=&quot;2020-08-28&quot;&gt;2020-08-28&lt;/h5&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;4時起床。軽く夜食を食べて二度寝。最近すっかりこの生活パターンになってしまっている。それでも昼夜逆転よりはましかな。&lt;/li&gt;
-  &lt;li&gt;昨日とほぼ同じ一日。夕方にバイト先に勤務実績の報告をして、夜は植物分類の調べ物。南方系の種なのになぜか&lt;a href=&quot;https://www.biodiversitylibrary.org/bibliography/43751#/summary&quot;&gt;Flora of USSR&lt;/a&gt;が引用文献に出てきて、記載を読んだら北方領土を含んでいるためだった。生物に国境はないので、調べるとこういうことが割とよくある。&lt;/li&gt;
-  &lt;li&gt;午後にSNSで首相辞任のニュースを知る。長かったなぁ。&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;h5 id=&quot;2020-08-27&quot;&gt;2020-08-27&lt;/h5&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;2時半起床。寝る前にごはんを食べなかったのでふらふらになりながら夜食を食べる。そのあと二度寝して正午ごろ起床。昼間には起きて動ける程度には体調が回復した。&lt;/li&gt;
-  &lt;li&gt;夜中に出歩くとだいぶ涼しさを感じるようになった。この1週間ほどで、秋の花が各地で一気に咲き始めたようだ。もう気がつけば8月も終わりかけているが、今年は梅雨の間ずっと雨だったから夏がずいぶんと短く感じる。&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;h5 id=&quot;2020-08-26&quot;&gt;2020-08-26&lt;/h5&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;前日は20時ころにはいろいろどうでもよくなって寝てしまったので、午前1時に起床。今日も若干寝不足。一旦起きた後、明け方から昼前まで二度寝。&lt;/li&gt;
-  &lt;li&gt;厭世観がひどい。音楽聴いて気を紛らわしてもすぐにだめになる。ずっと寝不足でイライラしているのも一因だろうし、あまり余計な情報を目に入れないようにまたSNS絶ちをするべきか。でもそれも、作業が進まない言い訳にしているだけなのだろうし、自身の問題を解決することでしか今は先に進めないのだと思う。&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;h5 id=&quot;2020-08-25&quot;&gt;2020-08-25&lt;/h5&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;原稿のMarkdownファイルをrename（日付を変更）したらフィードが再配信されるかどうか試してみる。&lt;/li&gt;
-  &lt;li&gt;珍しく9時台に起床。午前中は地元のネットニュースを見つつ、情報収集で時間を費やす。&lt;/li&gt;
-  &lt;li&gt;今書いている論文、原稿の内容としては本当にもうちょっとなんだが、そのちょっとをずっと書けずにいる。既往研究の知見は十分なくらいインプットできていて、こういうことを書いたらいいんだよなということはもやっとイメージできるのだけど、それがうまく言語化できない。データの解釈しだいで論文の価値も大きく変わるので手が抜けないし。でたらめでもいいから書いてみたらいいのだろうか。うーん……。&lt;/li&gt;
-  &lt;li&gt;もしくは、これだけ時間が流れてしまうのであれば、中断している2本めの論文に着手した方がいいのかもしれない。はぁ。調査にもいい加減行きたいし。&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;h5 id=&quot;2020-08-24&quot;&gt;2020-08-24&lt;/h5&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;1ヶ月ぶりくらいにようやく集中力が戻ってきたのだけど、研究に気持ちが向かわないのがどうにもならない。連日、研究室のSlackでは野外調査の連絡が飛び交っているのに自分は何をしているのだろうと思う。そう思うのだが、手が進まないヤバさよ。&lt;/li&gt;
-  &lt;li&gt;机に向かって趣味のことを多少する以外はずっと寝ている状態なので、せめて近所に散歩に出かけたらとも思うが、出かけないと…という強迫観念が残るだけで何もできていない。&lt;/li&gt;
-  &lt;li&gt;午前中に過去の読書記録の整理（読書メーターへ読んだ本の追加）、夜にちょっとだけGISをいじった。ダム湖を含まない湖沼の一覧がネット上で見つからないという話を耳にしたので、国土数値情報から湖沼とダムのシェープファイルを入手してQGISで加工、GeoJSONで出力してGitHubにアップするというのをやった。属性情報がまだテキトーなので、直したらもうちょっと便利になると思う。埋め込みをここで試してみたけど、良さげ。&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;div align=&quot;center&quot;&gt;
-&lt;script src=&quot;https://embed.github.com/view/geojson/hakobera-ss/lake-and-dam/master/natural-lake.geojson&quot;&gt;&lt;/script&gt;
-&lt;/div&gt;</content><author><name></name></author><category term="diary" /><summary type="html">Blogページが長くなってしまうので、月ごとに日記エントリをまとめることにしてみた。今月から夏休み。</summary></entry></feed>
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name></name></author><category term="plant" /><category term="JavaScript" /><summary type="html">ワンクリックで植物の和名から学名を検索したかったので、ついでにいろいろつくってみた。</summary></entry></feed>
