@@ -12,4 +12,4 @@ title: Links
 - [Scrapbox/hakobe-public](https://scrapbox.io/hakobe-public/)（情報収集と整理）
 - [はてなブックマーク](https://b.hatena.ne.jp/hakobe_tan/)（時系列の公開ブックマーク）
 - [読書メーター](https://bookmeter.com/users/969172)（読書記録）
-- PGP Fingerprint for E-mail: BAD6 ABC2 AEE8 73C7 ABF3 0F10 5B24 6AD5 E32B 6D85
+- [PGP key](../0x5B246AD5E32B6D85.asc) for [E-mail](mailto:hakobe_at_chitose.org): 5B246AD5E32B6D85
