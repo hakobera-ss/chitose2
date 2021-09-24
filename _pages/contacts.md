@@ -2,10 +2,13 @@
 layout: defaults/page
 permalink: contacts.html
 narrow: true
-title: Links
+title: Contacts
 ---
 
 #### 連絡先
 
-- ご用のある方はメール`hakobe_at_chitose.org`へご連絡ください。
-- PGP公開鍵は、左のリンクで公開しているもの（フィンガープリント：BAD6 ABC2 AEE8 73C7 ABF3 0F10 5B24 6AD5 E32B 6D85）のほか、[Keyoxide](https://keyoxide.org/BBBC1FDCE17A85BCCF8E9AA50EE8938A46827B8B)、[Keybase](https://keybase.io/hakobe)の鍵でも受信できます。
+- 本サイトに関するお問い合わせはメール `hakobe (at) chitose.org` へお願いします。
+- PGP公開鍵は[keys.openpgp.org](https://keys.openpgp.org)で公開しています。Fingerptintは
+  ```BBBC 1FDC E17A 85BC CF8E 9AA5 0EE8 938A 4682 7B8B```
+  です。
+- [Keyoxide](https://keyoxide.org/BBBC1FDCE17A85BCCF8E9AA50EE8938A46827B8B)でproofを通したSNSアカウントでも連絡を取ることができますが、お返事が遅くなることがありますのでご了承ください。
