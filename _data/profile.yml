@@ -6,10 +6,10 @@
   href: https://mstdn.chitose.org/@hakobe
   icon: icons/mastodon.svg
 
+- caption: Keyoxide
+  href: https://keyoxide.org/BBBC1FDCE17A85BCCF8E9AA50EE8938A46827B8B
+  icon: entypo/link.svg
+
 - caption: Email
   href: mailto:hakobe_at_chitose.org
   icon: entypo/mail.svg
-
-- caption: PGP key for Email
-  href: 5B246AD5E32B6D85.asc
-  icon: entypo/download.svg
