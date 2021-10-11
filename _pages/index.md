@@ -4,16 +4,13 @@ permalink: index.html
 narrow: true
 title: Home
 images:
-  - https://s3-ap-northeast-1.amazonaws.com/felesitas.cloud.storage/media_attachments/files/002/967/535/original/32c57244b22db79e.png
-  - https://s3-ap-northeast-1.amazonaws.com/felesitas.cloud.storage/media_attachments/files/002/760/016/original/99a1471f45629999.png
-  - https://s3-ap-northeast-1.amazonaws.com/felesitas.cloud.storage/media_attachments/files/002/735/191/original/6aad6dceb0c12171.jpeg
-  - https://s3-ap-northeast-1.amazonaws.com/felesitas.cloud.storage/media_attachments/files/002/629/393/original/a250c6375635920c.png
-  - https://s3-ap-northeast-1.amazonaws.com/felesitas.cloud.storage/media_attachments/files/002/539/091/original/6130fcc07122fd6f.jpg
-  - https://s3-ap-northeast-1.amazonaws.com/felesitas.cloud.storage/media_attachments/files/002/497/594/original/25228234871c63f7.jpg
-  - https://s3-ap-northeast-1.amazonaws.com/felesitas.cloud.storage/media_attachments/files/002/284/971/original/9caba3d88bd2102d.png
-  - https://s3-ap-northeast-1.amazonaws.com/felesitas.cloud.storage/media_attachments/files/002/257/557/original/b054c5bff66bff84.jpg
-  - https://s3-ap-northeast-1.amazonaws.com/felesitas.cloud.storage/media_attachments/files/002/199/457/original/618063a73a5352b8.jpg
-  - https://s3-ap-northeast-1.amazonaws.com/felesitas.cloud.storage/media_attachments/files/002/199/807/original/3d347372be6a31fb.jpg
+  - https://pixelfed.tokyo/storage/m/_v2/167071676260028416/f98697a52-a34568/XU72Vy6pTzHc/ta4Hk1SsIG2UGN0MgVXLXObOBqmLGw4YlfCBTkFP.jpg
+  - https://pixelfed.tokyo/storage/m/_v2/167071676260028416/b84b52654-1eb8f9/d7uEPsMsWrYP/hHDEXJWiePgoXWYMtvfgGJCndZBbbZ2WHlQDptuL.jpg
+  - https://pixelfed.tokyo/storage/m/_v2/167071676260028416/b84b52654-1eb8f9/Uf3TweBlNHlh/sPrbyQj8aNN340p1748Uc1Q4tHSxUK2pBgmTEEtS.jpg
+  - https://pixelfed.tokyo/storage/m/_v2/167071676260028416/b84b52654-1eb8f9/NpDuA4emfR5R/fHfLzYeimPUFLC3VEAEkncQ8mc9Q7rC3hqehC9Lx.jpg
+  - https://pixelfed.tokyo/storage/m/_v2/167071676260028416/222ce2dde-c74ca4/vMapr0zoH2HY/NxjSqLgKoZhUDFhgiWKxum42XdCw15zcfDp3RKcB.jpg
+  - https://pixelfed.tokyo/storage/m/_v2/167071676260028416/8fb78bfd7-ec88b5/s3NQJ3Dm0S6w/2QdUVTlJS2lvrcETeRJMxHVQOkUl3xT5qvS8JRyX.jpeg
+  - https://pixelfed.tokyo/storage/m/d6eeff88aa0c9af7fd5f87cd6431a14d929d049b/80fba949709b3d19a566cf4e148f4612cdab1cdd/JBU9Mp5y3fm28TthGXF6jcRKURigcJ8bcPWRyE7d.jpeg
 ---
 
 ## Welcome to chitose.org
