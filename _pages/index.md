@@ -57,6 +57,6 @@ images:
 {% include components/post-card.html %}
 {% endfor %}
 
-© 2020 hakobe some rights reserved ([CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/deed.en)). Powered by [Jekyll](https://jekyllrb.com) & [Friday Theme](https://sfreytag.github.io/friday-theme/).
+© 2019-2021 hakobe some rights reserved ([CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/deed.en)). Powered by [Jekyll](https://jekyllrb.com) & [Friday Theme](https://sfreytag.github.io/friday-theme/).
 
 <div align=center><a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="クリエイティブ・コモンズ・ライセンス" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a></div>
