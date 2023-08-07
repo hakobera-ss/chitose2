@@ -7,8 +7,11 @@
 - title: Works
   href: list/projects.html
 
-- title: Blog
+- title: Blog（旧）
   href: list/posts.html
+
+- title: Blog（その2）
+  href: https://blog.chitose.org/
 
 - title: Links
   href: links.html
