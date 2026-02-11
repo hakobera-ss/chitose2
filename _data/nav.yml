@@ -5,13 +5,10 @@
   href: about.html
 
 - title: Documents
-  href: list/portfolio.html
+  href: list/projects.html
 
 - title: Blog
   href: list/posts.html
-
-- title: Previous Works
-  href: list/projects.html
 
 - title: Links
   href: links.html
