@@ -68,7 +68,7 @@ defaults:
       path: "_documents"
     values:
       show_profile: false
-      layout: defaults/project
+      layout: defaults/page
   -
     scope:
       path: "list"
