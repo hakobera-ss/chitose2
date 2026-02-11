@@ -65,6 +65,12 @@ defaults:
       layout: defaults/project
   -
     scope:
+      path: "_documents"
+    values:
+      show_profile: false
+      layout: defaults/project
+  -
+    scope:
       path: "list"
     values:
       show_profile: false

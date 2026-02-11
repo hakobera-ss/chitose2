@@ -4,11 +4,14 @@
 - title: About
   href: about.html
 
-- title: Works
-  href: list/projects.html
+- title: Documents
+  href: list/documents.html
 
 - title: Blog
   href: list/posts.html
+
+- title: Previous Works
+  href: list/projects.html
 
 - title: Links
   href: links.html
