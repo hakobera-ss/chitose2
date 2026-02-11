@@ -13,3 +13,4 @@ title: Links
 - [Scrapbox/hakobe-public](https://scrapbox.io/hakobe-public/)（情報収集と整理）
 - [はてなブックマーク](https://b.hatena.ne.jp/hakobe_tan/)（時系列の公開ブックマーク）
 - [読書メーター](https://bookmeter.com/users/969172)（読書記録）
+- [Annict](https://annict.com/@vech_)（アニメの視聴記録）
