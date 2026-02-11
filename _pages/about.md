@@ -10,7 +10,7 @@ title: About
 
 - 名前：はこべ （hakobe）
 - 名前の由来：ミヤマハコベ（*Stellaria sessiliflora*）から
-- おしごと：博士課程の学生
+- おしごと：博士課程の学生（だった？）
 - 好きなもの：生物（特に植物）＆生態写真の撮影　※まだまだ初心者…
 - アイコンは[Waifu Labs](https://waifulabs.com)で作成しました。
 
